@@ -29,7 +29,9 @@ public class E21 {
             for (int i = 0; i < arra.length; i++) {
                 arraFact[i] = factorial(arra[i]);
             }
-
+            for (int i = 0; i < arra.length; i++) {
+                System.out.println(arraFact[i]);
+            }
         } else {
             System.out.println("Try again");
         }
