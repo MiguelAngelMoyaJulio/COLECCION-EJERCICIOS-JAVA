@@ -13,8 +13,8 @@ public class E19 {
         int[] arra;
         int n = 0, i = 1, j = 0;
         System.out.println("enter a number");
+        n = Integer.parseInt(s.nextLine());
         if (n < 25) {
-            n = Integer.parseInt(s.nextLine());
             arra = new int[n];
             while (j < n) {
                 if (i % 2 == 0) {
