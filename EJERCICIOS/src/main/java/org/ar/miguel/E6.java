@@ -13,8 +13,8 @@ public class E6 {
         System.out.println("enter a number");
         a = Integer.parseInt(s.nextLine());
         for (int i = 1; i <= a; i++) {
-            fac = fac *i;
+            fac = fac * i;
         }
-        System.out.println("factorial of "+a+" is : " + fac);
+        System.out.println("factorial of " + a + " is : " + fac);
     }
 }
