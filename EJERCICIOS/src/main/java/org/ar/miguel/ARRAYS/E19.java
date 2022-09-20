@@ -13,17 +13,21 @@ public class E19 {
         int[] arra;
         int n = 0, i = 1, j = 0;
         System.out.println("enter a number");
-        n = Integer.parseInt(s.nextLine());
-        arra = new int[n];
-        while (j < n) {
-            if (i % 2 == 0) {
-                arra[j] = i;
-                j++;
+        if (n < 25) {
+            n = Integer.parseInt(s.nextLine());
+            arra = new int[n];
+            while (j < n) {
+                if (i % 2 == 0) {
+                    arra[j] = i;
+                    j++;
+                }
+                i++;
             }
-            i++;
-        }
-        for (int x = 0; x < arra.length; x++) {
-            System.out.println(arra[x]);
+            for (int x = 0; x < arra.length; x++) {
+                System.out.println(arra[x]);
+            }
+        } else {
+            System.out.println("Try again");
         }
     }
 
