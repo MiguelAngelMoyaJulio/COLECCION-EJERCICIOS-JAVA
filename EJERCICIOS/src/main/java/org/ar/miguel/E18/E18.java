@@ -20,7 +20,6 @@ import java.util.Scanner;
  * •Los datos de los encuestados que hayan completado los estudios primarios.
  * •El porcentaje de analfabetismo en la ciudad
  * (se considera analfabetos a los mayores de 10 años que no posean estudios).
- * ALGORITMOS Y ESTRUCTURA DE DATOS (2013)	UTN.BA
  * •	El domicilio de la familia con mayor cantidad de
  * integrantes que viven en departamento.
  * •	La edad promedio de cada familia y de la ciudad.
