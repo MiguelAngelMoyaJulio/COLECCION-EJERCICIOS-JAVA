@@ -71,10 +71,10 @@ public class E29 {
             }
             bufferedReader.close();
             fileReader.close();
-            System.out.println("AMOUNT OF BIRTHS ON OCTOBER : "+birthsOnOctober);
-            System.out.println("AMOUNT OF BIRTHS BEFORE 9 JULY : "+birthsBeforeNineJuly);
-            System.out.println("AMOUNT OF BIRTHS ON SPRING : "+birthsFemaleSpring);
-            System.out.println("OLDEST PERSON'S SEX : "+sex+" "+anioMinimum);
+            System.out.println("AMOUNT OF BIRTHS ON OCTOBER : " + birthsOnOctober);
+            System.out.println("AMOUNT OF BIRTHS BEFORE 9 JULY : " + birthsBeforeNineJuly);
+            System.out.println("AMOUNT OF BIRTHS ON SPRING : " + birthsFemaleSpring);
+            System.out.println("OLDEST PERSON'S SEX : " + sex + " " + anioMinimum);
         } catch (IOException e) {
             e.printStackTrace();
         }
