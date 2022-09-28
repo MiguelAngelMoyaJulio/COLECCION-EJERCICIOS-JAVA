@@ -1,0 +1,999 @@
+112077826;Liam Abdo                   ;GUACHIPAS                     ;0203;B
+119987771;Noé Abreu                   ;MANUEL PINO                   ;0446;C
+115749616;Oliver Acosta               ;AV PTE QUINTANA               ;0252;A
+110744404;Elijah Aguayo               ;BASAVILBASO                   ;0631;D
+112720048;Guillermo Aguilar           ;AIME PAINE                    ;0620;E
+111775982;Jaime Aguilar               ;CALLE S N                     ;0547;C
+117771522;Benjamín Aguilar            ;DEL CARMEN                    ;0805;E
+115226927;Lucas Aguirre               ;IGR ENRIQUE BUTTY             ;0317;B
+112566075;Enrique Aguirre             ;LETONIA                       ;0147;D
+112050671;Alejandro Alberú            ;MOMPOX                        ;0612;D
+114244346;Masón Alcántar              ;PABLO GIORELLO                ;0549;E
+116919983;Miguel Alcaraz              ;PARERA                        ;0623;C
+112231972;Ethan Alcocer               ;SGTO CABRAL                   ;0644;A
+110341947;Daniel Alexanderson         ;USPALLATA                     ;0234;A
+117184534;Jacob Almeda                ;VICTORIA OCAMPO               ;0629;A
+117651933;Logan Alonso                ;VIEYRA                        ;0451;C
+112442072;Jackson Alonso              ;AV ANTARTIDA ARGENTINA        ;0909;D
+117794397;Levi Alpuche                ;AV ELVIRA RAWSON DE DELLEPIANE;0934;D
+114142204;Sebastián Alva              ;ARTURO CAPDEVILLA             ;0358;E
+115843474;Mateo Alvarado              ;AV GRL GELLY Y OBES           ;0944;B
+117753741;Jack Álvarez                ;AV TOMAS A EDISON             ;0407;D
+119601151;Owen Álvarez                ;BARRIENTOS                    ;0903;A
+112408063;Theodore Álvarez            ;JOSE LEON PAGANO              ;0542;C
+112062805;Aiden Álvarez               ;SIN CORRESPONDENCIA           ;0924;A
+113341717;Samuel Álvarez              ;SOLER                         ;0732;D
+113232939;José Amato                  ;CARLOS GARDEL                 ;0548;C
+112896209;John Amigo                  ;MISIONES                      ;0202;A
+111089162;David Ángeles               ;SANCHEZ DE BUSTAMANTE         ;0228;E
+115611134;Wyatt Ángeles               ;ASCASUBI                      ;0609;E
+114081468;Mateo Apiquian              ;AV BENITO PEREZ GALDOS        ;0458;D
+116167111;Lucas Araico                ;AV DARACT                     ;0255;A
+110703608;Asher Arauz                 ;AV ISIDRO LOREA               ;0636;E
+114109944;Carretero Arcila            ;CALLE S N                     ;0603;E
+118903223;Julian Arellanes            ;CALLE S N                     ;0216;B
+116579654;Grayson Arenas              ;CAYASTA                       ;0445;A
+117698719;León Argüero                ;DEKAY                         ;0936;D
+115074368;Jayden Arias                ;FRANCISCO CAFFERATA           ;0401;C
+114310006;Gabriel Ariza               ;GUAL                          ;0208;D
+113465671;Isaac Armendáriz            ;INDALECIO GOMEZ               ;0702;A
+119176677;Lincoln Arredondo           ;JOSE PAZOS                    ;1007;E
+113435813;Antonio Arriaga             ;JUAN M THOME                  ;0715;D
+116043214;Hudson Arriaga              ;LLORENTE                      ;1047;C
+112320848;Dylan Arrieta               ;LOS TELARES                   ;0425;B
+118933719;Esdras Arroyo               ;LUGO                          ;0527;A
+118375032;Thomas Arteaga              ;MARCOS SEGUIN                 ;0346;A
+114261145;Charles Arzate              ;MUTUALISMO                    ;0609;E
+116993818;Cristóbal Astiazarán        ;PARACAS                       ;1045;B
+113976270;Jaxon Ávalos                ;PILCOMAYO                     ;0538;B
+119612209;Disidente Ávila             ;PJE S N                       ;0422;D
+114225692;Josías Ávila                ;ROCHDALE                      ;0234;A
+116507546;Isaías Ávila                ;TIERRA DEL FUEGO              ;0147;D
+114241412;Andrés Aviña                ;WILLIAM C MORRIS              ;0408;E
+112983449;Elías Ayala                 ;ANGEL PELUFFO                 ;0258;A
+114082288;Joshua Báez                 ;BATHURST                      ;1034;B
+111248646;Nathan Baeza                ;BOGADO                        ;0204;E
+110018880;Caleb Baeza                 ;GALLEGOS                      ;0208;C
+113349056;Ryan Baptista               ;INCA                          ;0932;D
+112998417;Adrian Barinagarrementería  ;JOSE JULIAN PEREZ             ;0337;B
+115394951;Millas Barquera             ;OBRERO ROBERTO NUNEZ          ;1012;A
+114143683;Eli Barragán                ;SIN CORRESPONDENCIA           ;0755;E
+114697921;Nolan Barrera               ;ACHAVAL                       ;0933;C
+115629294;Cristiano Barrera           ;AV LILLO                      ;0928;E
+111545067;Aaron Barrientos            ;AV ROENTGEN                   ;0152;D
+112890248;Cameron Barriguete          ;BEADE                         ;0247;B
+116568957;Ezequiel Barroso            ;BERNAL                        ;0314;E
+115978066;Colton Basurto              ;FEDERICO GARCIA LORCA         ;0140;E
+119580702;Luca Becker                 ;MIRO                          ;0446;C
+110977678;Aterrizar Bedolla           ;REPUBLICA DE INDONESIA        ;1027;E
+119461992;Cazador Berlanga            ;AV VERNET                     ;0209;C
+118841045;Jonathan Bermudez Gómez     ;BELL VILLE                    ;0615;A
+111703405;Santiago Berruecos          ;CABALLITO                     ;0809;D
+112965228;Axel Berumen                ;CALCENA                       ;0436;D
+118984218;Easton Biagi                ;CALLE S N                     ;0509;D
+117424865;Cobre Blanco                ;CALLE S N                     ;0114;D
+112046726;Jeremías Bobadilla          ;CAPERUCITA                    ;0225;C
+119133292;Ángel Bojalil               ;CARICANCHA                    ;0859;A
+118101854;Romano Bolio                ;CARLOS BERG                   ;0659;D
+113361837;Connor Bonvecchio           ;CHARRUA                       ;0111;C
+118514028;Jameson Borja               ;CIPOLLETTI                    ;0252;C
+115241852;Robert Borrayo              ;LA CAPITAL                    ;0851;E
+111335744;Greyson Bosques             ;PERGAMINO                     ;0744;C
+119939913;Jordán Bourges              ;PERRAULT                      ;0359;B
+118840654;Ian Bracho                  ;RAMON Y CAJAL                 ;0229;A
+117649490;Carson Briones              ;SOMELLERA                     ;0438;B
+111290223;Jaxson Buendía              ;TIMBO                         ;0950;A
+116401620;Leonardo Burgos             ;TTE GRL N LEVALLE             ;0222;B
+110727207;Nicolás Cabral              ;UCACHA                        ;0146;D
+111374841;Dominic Calderón            ;ZAPALA                        ;0940;C
+115685897;Austin Calderón             ;ALFARERO                      ;1007;C
+114300763;Everett Calleja             ;ASTURIAS                      ;0918;A
+110832943;Arroyos Calva               ;AV EVA PERON                  ;0713;B
+117951686;Javier Calva                ;GUSTAVO VAN MARCK             ;0228;A
+115733983;Kai Camacho                 ;GUSTAVO WALTHER               ;0449;C
+111419072;José Camacho                ;BARCELONA                     ;0349;E
+112791576;Parker Campillo             ;CALLE S N                     ;0744;D
+116210227;Adán Campos                 ;CHAJARI                       ;0559;D
+110501800;Jace Campuzano              ;CURA BROCHERO                 ;1058;B
+112783591;Wesley Cano                 ;GRL NAPOLEON URIBURU          ;0352;D
+119185808;Kayden Canto                ;GUILLERMO HUDSON              ;0406;D
+112375144;Silas Cantú                 ;LOS CEDROS                    ;0613;E
+118715965;Bennett Cantú               ;MALDONADO                     ;0909;D
+112216483;Declan Carabez              ;PAILEBOT DAVISON              ;0123;C
+113143148;Waylon Cardiel              ;PJE S N                       ;0418;D
+110889244;Weston Cardona              ;RIO NEGRO                     ;0657;B
+115318561;Evan Careaga                ;SANTA CATALINA                ;0301;A
+111254927;Emmett Carnevale            ;HECTOR ODDONE                 ;0945;A
+114392277;Miqueas Carranza            ;VERACRUZ                      ;0618;A
+119847152;Ryder Carrillo              ;VALMTE IRIZAR                 ;0505;B
+118532074;Galán Carrillo              ;VICENTE DE SIMONE             ;0809;A
+111127147;Damian Castaño              ;VILLA DE MASNOU               ;0902;B
+110294982;Brayden Castañón            ;AV 27 DE FEBRERO              ;0137;A
+118024483;Gaélico Castellanos         ;ASTURIAS                      ;1012;A
+110091379;Serbal Castillo             ;CARLOS MOREL                  ;1008;A
+114190955;Harrison Cebrián            ;COTOCOLLAO                    ;0233;D
+117414907;Bryson Celis                ;CURITYBA                      ;0517;A
+110587991;Aserrador Cereijido         ;EL CARDENAL                   ;0540;C
+116811429;Amir Cetina                 ;EL CARPINTERO                 ;0218;D
+112010889;Kingston Chan               ;EL CERRO                      ;0618;D
+119289976;Jason Chapela               ;EL CHACHO                     ;0428;E
+112855933;Giovanni Chávez             ;FINLANDIA                     ;0650;B
+111210132;Vincent Chávez              ;FRAGATA CEFIRO                ;0502;E
+116266663;Ayden Chico                 ;FRANCISCO J ORTIZ             ;0931;D
+114647615;Perseguir Clark             ;GERONIMO CORTES               ;0859;A
+111543274;Myles Contreras             ;GRAHAM R CUNNINGHAME          ;0227;A
+110478587;Diego Cordera               ;GRL CESAR DIAZ                ;0529;C
+118665004;Nathaniel Córdova           ;GUIPUZCOA                     ;0647;C
+119635160;Leyenda Corona              ;JOSE R BALTORE                ;0920;B
+112930992;Jonás Correa                ;JUAN B PRIMOLI                ;1046;B
+118464642;Río Cossío                  ;JUAN LEON PALLIERE            ;1001;E
+110351728;Tyler Cravioto              ;MARIA REMEDIOS DEL VALLE      ;0136;E
+119020086;Col Criales                 ;MOLINA                        ;0210;E
+114191833;Braxton Cruz                ;ONESIMO LEGUIZAMON            ;0717;C
+116613193;Jorge Cuevas                ;PASAJE PARTICULAR             ;0850;D
+111842918;Milo De La Fuente           ;PASEO DE LOS ARTISTAS         ;0333;A
+116773300;Zachary De La Fuente        ;PJE LA MISERICORDIA           ;0649;A
+119982447;Ashton De La Garza          ;PJE TOMAS VALENCIA            ;0655;E
+111505393;Luis De La Llata            ;POLONIA                       ;0543;A
+112905165;Jaspe De La Peña            ;PRELADO D B RISSO PATRON      ;0747;B
+117726078;Kaiden De La Rosa           ;TRENQUE LAUQUEN               ;1026;E
+110036844;Adriel De La Torre          ;TTE CANDIDO DE LA SALA        ;0423;B
+118360301;Gavin Decanini              ;TUYU                          ;0256;E
+113062573;Bentley Dehesa              ;YERBAL                        ;0756;A
+115788651;Calvin Del Río              ;ACONCAGUA                     ;0854;A
+116406911;Sión Díaz                   ;ALICANTE                      ;0651;C
+118979190;Juan Díaz                   ;AV LACARRA                    ;0327;B
+115801721;Maxwell Díaz                ;BEYROUTH                      ;0319;E
+110047604;Max Díaz                    ;COLIGUE                       ;0211;A
+111708426;Ryker Díaz                  ;COLIQUEO                      ;0401;D
+114471157;Carlos Díaz                 ;DOLORES                       ;0329;D
+116257043;Emmanuel Diáz De León       ;EMILIO CASTELAR               ;0209;E
+116995348;Jayce Domínguez             ;EMILIO DE ALVEAR              ;0702;C
+117531990;Lorenzo Domínguez           ;GARCIA DE COSSIO              ;0212;E
+118748177;Iván Domínguez              ;JOSE DE MATURANA              ;0502;B
+119070018;Judas Domínguez             ;LA DILIGENCIA                 ;0854;B
+113805055;Agosto Domínguez            ;MANZONI                       ;0418;C
+116017084;Kevin Dreyfus               ;MAR DEL PLATA                 ;0842;D
+110816132;Malaquías Dueñas            ;MARIA A DE LA PAZ Y FIGUEROA  ;0503;E
+115403763;Elliott Dufoo               ;MENENDEZ Y PELAYO             ;0931;B
+111418355;Rhett Durán                 ;MIGUEL COUTO                  ;0927;B
+117617984;Arquero Durán               ;MILTON                        ;0751;A
+115355952;Karter Eguibar              ;MIRAMAR                       ;0226;C
+112942010;Arturo Eid                  ;NANDUTI                       ;0911;C
+111381328;Luka Elizondo               ;PEHUAJO                       ;0343;E
+117088854;Elliot Escalante            ;SAN NICOLAS                   ;0343;A
+111404486;Thiago Escobar              ;SIMBRON                       ;0756;D
+110847159;Brandon Escobar             ;ALMAGRO                       ;0852;B
+113740649;Camden Escobedo             ;AV CHORROARIN                 ;0209;C
+114555224;Justin Eslava               ;AV JOSE FAGNANO               ;0223;C
+113388724;Jesús Espínola              ;HERNANDO MAGALLANES           ;0841;D
+114028939;Maddox Espinosa             ;AV TTE GRL DONATO ALVAREZ     ;0753;B
+111897840;Rey Estañol                 ;BASILIO CITTADINI             ;0834;E
+118580684;Theo Estrada                ;BERNARDO DE LEON              ;0202;B
+117932298;Enzo Estrada                ;DR ALEJANDRO POSADAS          ;0753;E
+118627701;Matteo Estrada              ;FRANCO                        ;0844;B
+118022565;Emiliano Estrada            ;GABINO EZEIZA                 ;0239;E
+111668596;Decano Exaire               ;GAZETA DE BUENOS AIRES        ;0306;C
+110067495;Hayden Fajardo              ;INDIO                         ;0150;C
+115627489;Finlandés Fajardo           ;IGR AGUSTIN GONZALEZ          ;0655;D
+116107460;Brody Ferat                 ;JOSE INGENIEROS               ;0758;E
+115307123;Antonio Férez               ;LA CALANDRIA                  ;0651;E
+116784271;Abel Feria                  ;MAGDALENA                     ;0633;B
+118613932;Alex Fernández              ;MANUEL DE SAN GINES           ;0654;E
+117505970;Tristan Fernández De Castro ;MATEO J MARTINEZ              ;0756;B
+116147611;Graham Field                ;MIGUEL COUTO                  ;0250;E
+110956031;Zayden Flisser              ;RUSIA                         ;0435;C
+117561215;Judá Flores                 ;SIERRA GRANDE                 ;0225;C
+114167432;Xander Flores               ;VILLA JUNCAL                  ;0734;B
+114966456;Miguel Fraga                ;ARGELIA                       ;0137;B
+116506061;Atlas Franco                ;HIPOLITO MONTAGNE             ;0515;A
+116583543;Mesías Frati                ;AVALOS                        ;0742;A
+112882928;Barrett Frenk               ;CARLOS MOLINA ARROTEA         ;0151;D
+110920977;Fatigar Fuente              ;DR HONORIO LEGUIZAMON         ;0407;A
+116588959;Timoteo Furuya              ;DIAZ COLODRERO                ;1003;E
+110347999;Alan Gabilondo              ;ELSA OCONNOR                  ;1052;C
+114892999;Eduardo Gabriel             ;EMILIO CIVIT                  ;1035;C
+117340734;León Galindo                ;GAMARRA                       ;0218;A
+112773298;Dawson Gallegos             ;ISLANDIA                      ;1034;C
+112744274;Eric Gallegos               ;GUSTAVO REARTE                ;0533;A
+118531185;As Gamba                    ;JOAQUIN CASTELLANOS           ;0404;A
+112330889;Víctor García               ;JORGE CAFRUNE (NO OFICIAL)    ;0216;C
+114271282;Abrahán García              ;JORGE DI PASCUALE             ;0105;C
+111745187;Nicolás García              ;JOSE VARAS                    ;0702;E
+118818413;Jesse García                ;LITUANIA                      ;0420;A
+118399358;Charlie García              ;MANUEL ALVAREZ PRADO          ;1048;A
+113496353;Patricio García             ;MIGUEL A CAMINO               ;0651;E
+117619435;Caminante García            ;PLUS ULTRA                    ;0807;A
+117968998;Joel García                 ;PESTALOZZI                    ;0256;C
+112028712;Ricardo García              ;PROMETEO                      ;0939;D
+116191593;Beckett García              ;RODRIGO ORTIZ DE ZARATE       ;1004;D
+112682902;Blake García                ;RUFINO                        ;0416;A
+118532352;Alejandro Garza             ;SAN FRANCISCO DE ASIS         ;0946;D
+110418639;Avery Garza                 ;SANTOS VEGA                   ;0623;E
+117773995;Conceder Gaspar             ;AV MELIAN                     ;0144;E
+119603488;Pedro Gerson                ;CALLE S N                     ;0907;E
+113546521;Oscar Giono                 ;DR MARCELO J FITTE            ;0415;D
+111443041;Matias Girón                ;MUNICH                        ;0140;B
+111850670;Amari Gómez                 ;TEGUCIGALPA                   ;0857;E
+116070886;Lukas Gómez                 ;ZAVALIA                       ;0429;D
+119664274;Andres Gómez                ;BILLINGHURST                  ;0750;D
+112872952;Arlo Gómez                  ;CONVENCION                    ;0953;B
+113635586;Potro Gómez                 ;DEL SIGNO                     ;0644;C
+113757753;Adonis Gómez                ;INTENDENTE BUNGE              ;0654;D
+115105133;Kyrie Gómez                 ;JOSE ORTEGA Y GASSET          ;1052;C
+119952452;Steven Góngora              ;MIGUEL CANE                   ;0135;A
+114552294;Felix González              ;PAUNERO                       ;1041;C
+116813090;Preston González            ;PEREYRA LUCENA                ;0927;E
+115123212;Marcus González             ;PRINGLES                      ;0922;D
+117611091;Holden González             ;VIDT                          ;0102;E
+118294102;Emilio González             ;ADOLFO P CARRANZA             ;1045;D
+115813646;Remington González          ;ARGANARAS                     ;1009;E
+113249030;Jeremy González             ;ANGEL J CARRANZA              ;0733;C
+111263220;Kaleb González              ;AV GARMENDIA                  ;0627;D
+116024683;Brantley González           ;EUGENIO RAMIREZ               ;0346;B
+116313203;Bryce González              ;JUJUY                         ;1049;A
+116304174;Marcos González             ;MARIO BERNASCONI              ;0842;D
+113379607;Knox González De Cosío      ;MELINCUE                      ;0153;E
+112905555;Israel González Duarte      ;MURCIA                        ;0532;A
+112841893;Fénix González-Mariscal     ;SIN CORRESPONDENCIA           ;0506;E
+117720091;Kobe González-Mariscal      ;TASSO                         ;0706;E
+114545639;Nash Gordon                 ;URDININEA                     ;1031;D
+113673736;Grifo Gorodezky             ;HUGO BORNANCINI               ;0449;B
+115121907;Caden Graef                 ;A GHIRALDO                    ;0326;C
+114321198;Kenneth Granados            ;AGRELO                        ;0508;B
+117715396;Kyler Graue                 ;ALICE                         ;0443;B
+116167552;Hayes Graue                 ;ARDOHAIN                      ;0736;A
+115758862;Jax Guadalajara             ;AV BURGWARD                   ;0912;D
+111468693;Rafael Gual                 ;HUINCUL                       ;0227;D
+113363558;Beckham Guardiola           ;GUANUSACATE                   ;0830;C
+119219593;Javier Guerrero             ;IDIAZABAL                     ;0315;E
+114459760;Maximus Guevara             ;B BEQUER                      ;0154;B
+113707450;Simón Guevara               ;BATALLA DE C RAYADA           ;0244;B
+117980174;Paul Guevara                ;BENITO LYNCH                  ;0502;C
+112091723;Omar Guinto                 ;BERAZAIN                      ;0234;B
+118757690;Kaden Guiscafre             ;BURGOS                        ;0157;B
+110564219;Kash Guitiérrez             ;C RIPPAMONTI                  ;0445;C
+119185512;Carril Gulías               ;CALLE 18                      ;0222;A
+113999195;Bryan Gutiérrez             ;CALLE S N                     ;0830;A
+111146353;Riley Gutiérrez             ;CALLE S N                     ;0610;C
+119306476;Zane Gutiérrez              ;CASTRO                        ;0409;E
+111996146;Luis Gutiérrez              ;CHANAR                        ;1006;C
+118567687;Aidan Halabe                ;DIEGO VILLAROEL               ;0757;E
+116983213;Paxton Hamui                ;DR LUIS AGOTE                 ;0428;E
+114281279;Maximiliano Heinze          ;ECHEVERRY                     ;0547;E
+111810131;Karson Hernández            ;EL CHURRINCHE                 ;0332;C
+113166097;Dinero En Efectivo Hernández;EL RODEO                      ;0531;D
+111310683;Cayden Hernández            ;F DE CUVAS                    ;0952;A
+110566582;Emerson Hernández           ;FORMOSA                       ;0244;E
+119965572;Tobias Hernández            ;FRAY M ESQUIÃ©                ;0945;C
+119966878;Ronan Hernández             ;GRL ARTIGAS                   ;0356;D
+118733622;Brian Hernández             ;GRL HORNOS                    ;0437;C
+115754563;Dallas Hernández            ;GRL ROCA                      ;0252;C
+116606878;Bradley Hernández           ;GUTTERO                       ;0704;C
+119739627;Jorge Herrera               ;IGLESIAS                      ;0828;E
+118401832;Walter Herrera              ;J CASACUBERTA                 ;1051;C
+115481631;Josué Herrera               ;J ROSSINI                     ;1041;A
+116109614;Jalil Herrera               ;JEFRIE                        ;0337;C
+115504698;Damien Herrera              ;JOSE M ZUVIRIA                ;0524;C
+117550323;Jett Hicks                  ;KENNEDY                       ;0830;D
+116548829;Kairo Hijar                 ;KAYEL                         ;0821;A
+111798227;Zander Hinojosa             ;LA CONDICION                  ;1039;C
+114338178;Andre Hiriart               ;LA VINCHA                     ;1057;C
+116806084;Cohen Hojyo                 ;LAS MARGARITAS                ;0452;E
+113842985;Tripulación Hong            ;LOEDEL POLUMBO                ;1023;E
+116318809;Hendrix Huerta              ;LOS CEDROS                    ;0131;A
+114615397;Colin Hurtado               ;LOS LAGARTOS                  ;0338;E
+110501496;Oportunidad Ibarra          ;NEUQUEN                       ;0225;D
+115605866;Malakai Ibarra              ;NEWTON                        ;0613;E
+111467268;Clayton Iglesias            ;OBLIGADO                      ;0640;D
+114170551;Daxton Ilarraza             ;P PUEYRREDON                  ;0649;D
+118322054;Malcolm Infante             ;PEDRO E PICO                  ;0732;E
+114550005;Lennox Irigoyen             ;PEDRO ETCHEGOYEN              ;0710;A
+115676848;Martín Isibasi              ;PELLERANO                     ;0344;C
+113035709;Jaden Isordia               ;PINEDO                        ;0949;D
+118081077;Kayson Iturralde            ;PRIETO                        ;0156;E
+116604358;Bodhi Jakez                 ;R CALZADA                     ;0535;C
+116748510;Francisco Jáuregui          ;RESEDA                        ;0648;C
+111616074;Cody Jerjes-Sánchez         ;RICARDO ROJAS                 ;0707;D
+113045932;Erick Jiménez               ;RIZZUTO                       ;0919;C
+111910485;Kameron Jiménez             ;ROBERTO ARLT                  ;0745;B
+114197612;Atticus Jung                ;ROGGERO                       ;1011;B
+118030181;Dante Karchmer              ;RUY DIAZ DE GUZMAN            ;0136;D
+113692891;Jensen Katz                 ;SAN BENITO                    ;0548;D
+115124768;Cruz Kaufer                 ;SAN MATEO                     ;1054;E
+110323650;Finley Kershenobich         ;SAN MARCOS                    ;0453;D
+117147253;Brady Kimura                ;SANTA TERESA                  ;0809;D
+114749808;Joaquín Kimura              ;TABARE                        ;0626;A
+117915763;Anderson Knaul              ;TACUAREMBO                    ;0609;B
+116786127;Artillero Kuri              ;TALES                         ;0738;D
+111452270;Mahoma Kuri                 ;V LORETO                      ;0136;C
+111462493;Zayn Labardini              ;CALLE S N                     ;0211;E
+116051823;Derek Laclette              ;BOEDO                         ;0815;C
+112325644;Raymond Lacy                ;CALLE S N                     ;0334;E
+114616544;Kyle Lara                   ;CALLE S N                     ;0858;D
+114564344;Angelo Larrea               ;CERRITO                       ;0708;E
+119784003;Reid Lazcano                ;CERVANTES                     ;0104;B
+116365900;Spencer Legaspi             ;CNL CESPEDES                  ;0827;A
+117560481;Nico Lemus                  ;CORONADO                      ;0134;C
+113497516;Jaylen León                 ;ESMERALDA                     ;1053;C
+111965834;Jake Lifshitz               ;GERONIMO SALGUERO             ;0536;D
+119486651;Príncipe Lima               ;GRL MOLINA                    ;0510;A
+112553034;Manuel Llamas               ;LA BLANCA                     ;1005;E
+110294352;Ali Llorente                ;LAUTARO                       ;0953;A
+113422901;Gedeón López                ;MANUEL UGARTE                 ;0639;A
+119707124;Stephen López               ;PATAGONIA                     ;0156;C
+117192633;Ellis López                 ;PJE S N                       ;0844;E
+112743700;Orión López                 ;RAMON LISTA                   ;0609;A
+114641970;Rylan López                 ;SAN MARINO                    ;0928;C
+115118023;Eduardo López               ;SPANGENBERG                   ;0609;B
+118795537;Mario López                 ;TUPAC AMARU                   ;0506;E
+115356272;Rory López                  ;UNION                         ;0416;B
+118817040;Cristian López              ;USPALLATA                     ;0424;E
+111048004;Odin López                  ;BERUTI                        ;0827;C
+116810254;Curtidor Loredo             ;FORMOSA                       ;0129;B
+111433405;Julius Lozano               ;JUSTINO MORALES               ;0626;B
+112322717;Callum Luna                 ;ANTARTIDA ARGENTINA           ;1026;E
+113469643;Sean Lupi                   ;CALLE 303                     ;0930;A
+111559598;Kane Macías                 ;CALLE S N                     ;1008;A
+117904080;Ricardo Macías              ;CALLE S N                     ;0931;C
+118859038;Travis Macías               ;CALLE S N                     ;1037;D
+117916139;Vadear Madero               ;DE LAS CATIVAS                ;0511;A
+110330738;Madriguera Madrazo          ;FACUNDO QUIROGA               ;0504;E
+117186482;Fernando Majluf             ;GUAMINI                       ;0116;D
+118550429;Titus Malacara              ;MEXICO - C 11                 ;0607;E
+111824195;Leonel Mancilla             ;PJE S N                       ;0323;D
+118538008;Edwin Mandujano             ;PJE SAN CAYETANO              ;0905;C
+115455584;El Cairo Manjarrez          ;TIERRA DEL FUEGO              ;0634;D
+110657576;Corbin Mansilla             ;VENEZUELA                     ;0217;B
+116401954;Dakota Marín                ;ALEMANES DEL VOLGA            ;0646;A
+110537606;Ismael Marín                ;ARAUJO                        ;0955;E
+111126552;Colson Márquez              ;AV DE LAS SOPHORAS            ;0224;A
+113892673;Killian Martínez            ;CALLE S N                     ;0619;A
+115190404;Importante Martínez         ;CALLE S N                     ;0722;A
+113674809;Tate Martínez               ;CALLE S N                     ;1056;E
+119715437;Gianni Martínez             ;DAMAS MENDOCINAS              ;0122;D
+118657296;Elián Martínez              ;DE LA SOBERANIA               ;0340;B
+112156073;Remy Martínez               ;ENRIQUE J AGESTA              ;0610;E
+114232864;Lawson Martínez             ;EUSKADI                       ;0320;A
+115402099;Niko Martínez               ;GALLEGO MORA                  ;0941;D
+118093843;Nasir Martínez              ;HUMBERTO I                    ;0946;B
+110974326;Kade Martínez               ;INMIGRANTES                   ;0317;C
+116510108;Armani Martínez             ;J PENNA                       ;1003;B
+118535651;Ezequiel Martínez           ;KLOOSTERMAN                   ;0545;E
+116494472;Marshall Martínez           ;LA PAMPA                      ;0132;E
+113627230;Héctor Martínez-Reding      ;LARREA                        ;0947;E
+113014159;Desmond Mas                 ;LAS COTORRAS                  ;0331;B
+118619786;Kason Maulén                ;LOS AROMOS                    ;0359;E
+113580364;Garrett Meaney              ;LOS NARANJOS                  ;0713;B
+117283742;Jared Medina                ;MAPUCHE                       ;0407;E
+119644406;Ciro Medina                 ;MARTIN FIERRO                 ;0704;D
+113479280;Russell Medina              ;MEJICO 2                      ;0251;D
+112542122;Cesar Medina-Mora           ;P DE ROGATIS                  ;0404;E
+117032811;Tyson Mejía                 ;P VANGUAROTA                  ;0953;E
+113649432;Malik Meléndez              ;PAGO CHICO                    ;1004;D
+114383773;Donovan Melman              ;PENALOZA                      ;0325;C
+113099732;Jaxton Méndez               ;PJE HUSARES                   ;0833;A
+113231236;Cade Mendoza                ;PRONSATO                      ;0719;A
+119637134;Romeo Mendoza               ;QUINQUELA MARTIN              ;0757;B
+112611152;Nehemías Mendoza            ;QUINTANA                      ;0736;D
+116844200;Sergio Meneses              ;RENUZ                         ;0528;E
+114461037;Iker Meneses                ;RODAS                         ;0253;C
+114397300;Caiden Mercado              ;CALLE S N                     ;0841;D
+116651193;Arrendajo Mercado           ;SALVADOR MAZZA                ;1056;C
+115265990;Pablo Millán                ;SAN JUAN                      ;0637;C
+111450991;Devin Mimenza               ;SAN LUIS                      ;0154;D
+112836017;Jeffrey Mohar               ;SANTO DOMINGO                 ;0535;A
+118995156;Otón Molina                 ;SAUCE CHICO                   ;0612;B
+118213240;Kamari Molina               ;SEVILLA                       ;0207;C
+110195365;Ronin Montalvo              ;TIERRA DEL FUEGO              ;0343;D
+115770032;Johnny Morales              ;TTE DE FRAGATA LESTANI        ;0920;A
+119990512;Clark Morales               ;VESPUCIO                      ;0302;E
+110204706;Ari Morales                 ;WAICA                         ;0645;A
+113832589;Marco Morales               ;YEPUN                         ;0831;E
+116842971;Edgar Moreno                ;ZEBALLOS                      ;0507;D
+113800835;Bowen Moreno                ;CALLE 22                      ;0604;A
+113994002;Jaiden Moreno               ;CALLE S N                     ;0325;E
+118786163;Grady Moreno                ;PJE S N                       ;0440;A
+116861335;Zayne Moreno                ;ALBERDI                       ;0845;E
+117427956;Sullivan Mosqueda           ;CALLE S N                     ;0837;D
+114169692;Jayceon Muñoz               ;CHANA                         ;0144;A
+116367542;Libra Esterlina Muñoz       ;ERNESTO CHE GUEVARA           ;0450;E
+118810187;Andy Muñoz                  ;JOHN F KENNEDY                ;0318;E
+113816392;Conor Muñoz                 ;CALLE 129 A                   ;0757;A
+114315170;Raiden Muñoz                ;MALVINAS ARGENTINAS           ;0748;C
+116412694;Real Murguía                ;PERITO MORENO                 ;0345;E
+112997642;Royce Mutchinick            ;SARMIENTO                     ;0545;B
+113702508;Salomón Narro               ;25 DE MAYO                    ;0845;A
+118790924;Trevor Nathal               ;CALLE S N                     ;0721;C
+114797874;Winston Nava                ;CALLE S N                     ;0227;A
+111601729;Emanuel Navarro             ;COSTA RICA                    ;0638;D
+119383668;Finnegan Navarro            ;HORACIO BANCALARI             ;0756;D
+118882586;Pedro Neri                  ;SAN LUIS                      ;0224;D
+117001086;Luciano Nesbitt             ;SAN PEDRO                     ;0754;E
+113842178;Harvey Nicolini             ;SARDI                         ;0858;B
+113317544;Franklin Nieto              ;3 DE JULIO - C 51             ;0608;C
+114700583;Navidad Ocampo              ;CALLE S N                     ;0231;C
+118357410;Troya Ochoa                 ;CALLE S N                     ;0433;B
+119891760;Princeton Ochoa             ;CALLE S N                     ;0526;D
+117195678;Johnathan Ondarza           ;CORRIENTES - C 19             ;0750;D
+118500014;Erik Ontiveros              ;GRL RODRIGUEZ - C 28          ;0549;E
+115796844;Fabian Orea                 ;MARTI - C 53                  ;0806;D
+114812318;Oakley Orozco               ;SALINAS GRANDES - C 5         ;0655;C
+116521208;Rhys Orozco                 ;BARTON                        ;1018;C
+118737091;Portero Ortega              ;JOHN F KENNEDY                ;0433;C
+117832291;Hugo Ortega                 ;CALLE 118 A                   ;0716;E
+114351946;Franco Ortiz                ;CALLE 12 B                    ;0327;B
+117768693;Damon Ostrosky              ;CALLE 120                     ;0428;B
+119383458;Kendrick Palacios           ;CALLE 123 A                   ;0226;B
+116062056;Mathias Parra               ;CALLE 126                     ;0129;E
+110334426;Milán Pascual               ;CALLE 127                     ;0628;A
+110459763;Peyton Pastelín             ;CALLE 129 A                   ;0805;E
+113126315;Más Salvaje Pedrón          ;CALLE 129 A                   ;0726;A
+113309546;Callan Peña                 ;CALLE 132 A                   ;0551;C
+114190117;Gregory Peña                ;CALLE 137 A                   ;0249;E
+117896651;Seth Peñaloza               ;CALLE 146                     ;0312;B
+117403055;Matías Perez                ;CALLE 152                     ;0933;B
+112707923;Briggs Pérez                ;CALLE 155 A                   ;0246;C
+114498390;Ibrahim Pérez               ;CALLE 157 A                   ;0109;E
+111062753;Roberto Pérez               ;CALLE 164 A                   ;0543;C
+113678283;Conner Pérez                ;JUAN PABLO II                 ;0928;B
+117429970;Quinn Pérez Rincón          ;CALLE 206 B                   ;0319;E
+117703949;Kashton Perichart           ;CALLE 215                     ;0125;B
+110793957;Sabio Pineda                ;CALLE 27 A                    ;0411;B
+117257329;Santino Piña                ;CALLE 28 A                    ;0244;B
+117511429;Kolton Pizzuto              ;CALLE 29 A                    ;0539;A
+118852253;Alijah Plancarte            ;CALLE 309                     ;0631;A
+119109370;Dominick Poitevin           ;CALLE 36 A                    ;0139;C
+118406087;Zyaire Poletti              ;CALLE 368 B                   ;0528;C
+114415199;Apolo Ponce                 ;CALLE 418 A                   ;0549;A
+112122698;Kylo Ponce De León          ;CALLE 44 A                    ;0456;D
+113529050;Junco Ponce De León         ;CALLE 465                     ;0920;E
+112887114;Felipe Ponce De León        ;CALLE 535                     ;0754;E
+110085941;Kian Posadas                ;CALLE 616 A                   ;0146;E
+113777179;Shawn Prado                 ;RAMON CORTEZ                  ;0631;A
+114100171;Kaison Pravin               ;CALLE 621 A                   ;0951;D
+111245987;Leonidas Pulido             ;CALLE 63 A                    ;0145;A
+110051683;Ayaan Quiroz                ;CALLE 638                     ;0931;B
+110284525;Lucca Ramírez               ;CALLE 770                     ;0201;C
+119564739;Memphis Ramírez             ;CALLE S N                     ;0254;B
+116064747;Vado Ramírez                ;CALLE S N                     ;0344;D
+110479705;Baylor Ramírez              ;TRANSPORTE PATAGONIA          ;0142;A
+113947966;Kyson Ramón                 ;PASILLO A                     ;0717;E
+115780083;Uriel Ramos                 ;AV EVA PERON                  ;1020;B
+111584201;Allen Rangel                ;169 MARSELLA                  ;0851;D
+116320071;Collin Rangel               ;175 SAAVEDRA                  ;0634;E
+117710563;Ruben Rendón                ;CALLE N 5                     ;0814;D
+117735121;Archie Revuelta             ;CALLE N 70                    ;0756;B
+119694097;Dalton Reyes                ;CALLE S N                     ;0527;E
+117699600;Esteban Reyes               ;CALLE S N                     ;0949;A
+111055310;Adán Reyes                  ;LOS MOLLES                    ;0155;A
+114043818;Para Descanso Reyes         ;PJE S N                       ;0909;C
+116505869;Alonzo Reyes                ;ALVEAR                        ;0318;B
+112851265;Isaias Richardson           ;CALLE 11                      ;1033;D
+110484426;Leland Ridaura              ;CALLE 3                       ;0558;D
+119358531;Jase Ríos                   ;CALLE S N                     ;0942;E
+119872968;Dax Rivas                   ;CALLE S N                     ;0118;D
+111475935;Kasen Rivera                ;A SELPA                       ;0731;D
+111407917;Calibrar Rivera             ;COMANDANTE AGUILERA           ;0719;A
+118820983;Kamden Rivera               ;DEL CAMPO                     ;0112;B
+118782833;Marcos Rivero               ;GUIDO                         ;0340;E
+119197098;Jamison Robles              ;LOS TILOS                     ;0544;A
+110994102;Francis Rocha               ;MAXIMO FERNANDEZ              ;0522;E
+119079471;Madeja Rodríguez            ;PJE S N                       ;0832;D
+110788794;Alexis Rodríguez            ;RIO DE LA PLATA               ;0840;A
+113298453;Tripp Rodríguez             ;RIO URUGUAY                   ;1030;D
+116714187;Frederick Rodríguez         ;USHUAIA                       ;0758;D
+112650377;Jonas Rodríguez             ;VICTORIA OCAMPO               ;0511;B
+119220205;Stetson Rodríguez           ;ALEXANDER G BELL              ;0640;D
+114442480;Cassius Rodríguez           ;BRASIL                        ;1027;B
+110287335;Izaiah Rodríguez            ;BALCARCE                      ;0150;A
+111875476;Edén Rodríguez              ;CALLE 1                       ;0236;C
+112448885;Maximiliano Rodríguez       ;CALLE 22                      ;0835;D
+114159921;Rocco Rodríguez             ;CALLE S N                     ;0841;A
+117144628;Tatum Rojas                 ;EMILIO DIAZ ARANO             ;0956;C
+110901277;Keegan Rojo                 ;LOPEZ SECO                    ;0801;E
+115913511;Aziel Roldán                ;PJE S N                       ;1007;B
+112581630;Moisés Roldán               ;PROF ELENA URQUIJO            ;0320;A
+113013453;Bruce Roldán                ;T FERGUSON                    ;0559;A
+116215329;Luis Romero                 ;26 DE NOVIEMBRE               ;0924;E
+110201210;Braylen Romieu              ;ALBERTO ARMESTO               ;0315;C
+117001086;Omari Rosales               ;BALDRICH                      ;0808;D
+111734493;Mack Rosas                  ;CABRERA                       ;0417;B
+116041330;Augusto Ruano               ;CABRERA                       ;0936;C
+113964729;Enrique Rubio               ;CALLE S N                     ;0656;B
+119147240;Armando Rubio               ;CALLE S N                     ;0203;E
+117097930;Atravesar Rudomín           ;CASTRO                        ;0309;C
+112706794;Moises Rueda                ;COLLETA                       ;0346;C
+114008463;Como Un Ruelas              ;CROSSIO                       ;0812;D
+117343664;Shane Ruiz                  ;DE LAS ACACIAS                ;0817;E
+116098670;Emmitt Ruiz                 ;DR ILLIA                      ;0210;D
+111046206;Soren Ruiz                  ;FUCHS                         ;0340;A
+112230922;Dorio Ruiz                  ;GUANELLA                      ;0136;E
+115266218;Keanu Ruiz De Chávez        ;JOSE INGENIEROS               ;0554;A
+114982102;Zaiden Ruiz Palacios        ;P BETANCOURT                  ;0311;D
+112339530;Rafael Sáez De Ocáriz       ;ROSITER                       ;0549;C
+114468403;Diácono Said                ;SALTA                         ;0530;E
+111144677;Abdiel Salamanca            ;TORRES                        ;0944;C
+114394206;Kieran Salas                ;ALVARADO                      ;0533;C
+112568005;Phillip Salazar             ;B SUR MER                     ;0331;A
+112762015;Ryland Salazar              ;CALLE S N                     ;0430;D
+113935203;Zachariah Salcedo           ;CALLE S N                     ;0838;B
+110220660;Casey Salín                 ;CALLE S N                     ;0222;D
+111862919;Zaire Salinas               ;GORRITTI                      ;0835;A
+117325229;Albert San Juan             ;GRL CONDARCO                  ;0705;D
+113393529;Panadero Sánchez            ;LAPRIDA                       ;0518;C
+112267976;Corey Sánchez               ;MARCELO                       ;0139;B
+116142618;Kylan Sánchez               ;MONSEÂ¥OR SCHELL              ;0856;C
+116366255;Denver Sánchez              ;RUTA PROV 6                   ;0923;E
+114958192;Gunnar Sánchez              ;S J DE DIOS                   ;0228;C
+117754809;Jayson Sandoval             ;COLONIA                       ;0135;B
+117471732;Dibujó Santamaría           ;LOBOS                         ;0305;E
+118228386;Callen Santillán            ;MAIPU                         ;0746;E
+118784026;Jasiah Santos               ;SUIZA                         ;1028;D
+113093424;Pato Santos                 ;CALLE S N                     ;0333;B
+114998137;Kannon Santos               ;CALLE S N                     ;0248;A
+111802020;Braylon Santos-Burgoa       ;DE LA FRATERNIDAD             ;0928;E
+113174992;Hijo Sarti                  ;CARLOS GARDEL                 ;0106;E
+112663041;Bo Saturno                  ;CATAMARCA                     ;1019;B
+111023955;Moshe Sauceda               ;FORMOSA                       ;0957;A
+116992624;Huxley Schmulson            ;HERNANDEZ                     ;1009;A
+115827611;Quentin Schunemann          ;JUJUY                         ;0732;C
+114223592;Rowen Sepúlveda             ;SANTA CRUZ                    ;0611;A
+118524436;Santana Sepúlveda           ;BUENOS AIRES                  ;0948;A
+119941792;Cañón Sereno                ;FUERTE PAZ                    ;1052;D
+118515823;Kenzo Shor                  ;ISLAS MALVINAS                ;0915;A
+115551813;Wells Sienra                ;RAWSON                        ;0909;C
+111042651;Julio Sierra                ;BROWN                         ;0329;A
+119198853;Nikolai Sifuentes           ;CALLE S N                     ;0602;D
+119681368;Conrad Soberón              ;SARMIENTO                     ;0750;B
+116268882;Jalen Soberón               ;O COLOMBRES                   ;0320;C
+119378311;Makai Soda                  ;CALLE 10 BIS                  ;0552;E
+110647901;Benson Solórzano            ;CALLE S N                     ;0748;C
+116773025;Derrick Sosa                ;CALLE S N                     ;0602;A
+111852700;Gerardo Sotelo              ;AV GUERRERO                   ;0657;B
+119836333;Davis Soto                  ;CALLE S N                     ;0523;B
+113582207;Abram Soto                  ;CALLE S N                     ;0531;D
+112077570;Mohamed Soto                ;CALLE S N                     ;0923;C
+118450396;Ronald Stoopen              ;ESTANISLAO BOFFI              ;0333;A
+113260054;Raul Suzán                  ;INDEPENDENCIA                 ;0325;E
+111033122;Arjun Takahashi             ;ITUZAINGO                     ;0932;E
+119553491;Diestro Tamayo              ;MENDIZABAL                    ;0712;E
+112010245;Kaysen Tapia                ;PASO DE LOS LIBRES            ;1049;B
+112845517;Jaime Terán                 ;PJE AGOTE                     ;1018;D
+115418805;Scott Torre                 ;PJE S N                       ;0611;D
+112505197;Lawrence Torre              ;RUTA NAC 249                  ;0651;A
+116069069;Ariel Torre                 ;SANTA FE                      ;0245;E
+117320469;Skyler Torres               ;TRIUNVIRATO                   ;0843;B
+112943931;Danny Torres                ;USHUAIA                       ;0441;C
+117904161;Roland Torres               ;USPALLATA                     ;0311;B
+111681246;Velero Torres               ;CALLE S N                     ;0228;A
+117429692;Yusuf Torres                ;CALLE S N                     ;0601;E
+112660389;Sansón Toussaint            ;CALLE S N                     ;0457;B
+119475229;Caso Tovar                  ;DIP O FELIPE                  ;1035;C
+117304496;Zain Treviño                ;MONTEVIDEO                    ;0446;B
+116470967;Roy Treviño                 ;PJE S N                       ;0837;E
+111423218;Rodrigo Tsutsumi            ;PJE S N                       ;0356;D
+112544851;Sutton Tusié                ;24 DE SETIEMBRE - C 48        ;0520;D
+119325797;Boone Ulloa                 ;ARTIGAS                       ;0243;C
+110488104;Santo Urbina                ;BROWN BIS                     ;0912;E
+117568098;Saul Uribe                  ;CALLE 34                      ;0206;A
+116841043;Jaziel Urrutia              ;CALLE 25 BIS                  ;0941;A
+111376790;Ezequías Uscanga            ;CALLE S N                     ;0854;E
+110709239;Alec Vadillo                ;CARLOS GARDEL - CALLE 59 BIS  ;0634;C
+110565056;Arturo Valdés               ;CORTADERAS - CALLE 28         ;1056;C
+117652505;Jamari Valdovinos           ;CURA MALAL - C 11             ;0120;D
+112289012;Jaxtyn Valencia             ;EPUAN                         ;0813;A
+116995122;Julien Valenzuela           ;F GATICA                      ;0618;B
+116039662;Koa Vallejo                 ;FERMÃ–N PRINGLES              ;0352;D
+112102249;Reece Varela                ;JOSE TRIANO                   ;0248;B
+113599098;Landen Vargas               ;LOS SAUCES - C 50             ;0127;A
+118124978;Koda Vargas                 ;LOS TILOS                     ;0216;D
+111646830;Darius Vargas               ;LUIS DI PAOLA                 ;1053;C
+115042412;Sylas Vargas                ;MANANTIALES                   ;0904;D
+117113428;Ares Vargas                 ;TEHUELCHES                    ;0651;B
+117749066;Kyree Vargas                ;10 DE OCTUBRE                 ;0127;A
+119614386;Bostón Vásquez              ;AV LIBERTAD                   ;0618;A
+115113325;Keith Vázquez               ;BUENOS AIRES                  ;0354;D
+116308364;Taylor Vázquez              ;EUSKAL ECHEA                  ;0146;D
+114899328;Johan Vázquez               ;LOS ANDES                     ;0614;C
+119074501;Edison Vázquez Del Mercado  ;SALAMANCA                     ;0924;C
+112752804;Sincero Vázquez-Vela        ;SAUCE CORTO                   ;1030;D
+116533631;Watson Vega                 ;14 DE JULIO - C 113           ;0717;D
+119458857;Alemán Vega                 ;ANDRES DE VERA - C 115        ;0422;B
+116259721;Nikolas Velasco             ;AV 809 - URQUIZA              ;0905;D
+111206586;Quincy Velasco              ;CACHO DE BORDENAVE            ;0302;A
+110456582;Pastor Velasco              ;CALLE 9                       ;0843;E
+111558722;Brycen Velásquez            ;CONTE VARONELLI               ;0412;A
+119300604;Marvin Velásquez            ;F BRAVO - C 329               ;1050;B
+115750996;Dariel Vera                 ;J L ROSITO                    ;0613;C
+116479197;Axton Verástegui            ;LUIS DE LAUDO - C 339         ;0254;D
+119784872;Donald Verdejo              ;PAULINO ULLUA - C 324         ;1010;B
+119301012;Bodie Vidrio                ;PJE INT A SANGIANI            ;1041;A
+111164652;Finnley Viesca              ;RIVERO                        ;0933;A
+110062752;Ónix Vilar                  ;ARTURO JAURETCHE              ;0652;A
+113734464;Rayan Vilar                 ;AV COSTANERA ESPANA           ;0902;B
+112936819;Raylan Vilatobá             ;B PLACENAVE                   ;0742;C
+114795568;Brixton Villalpando         ;CALLE S N                     ;0112;D
+117919065;Colby Villalpando           ;CALLE S N                     ;0318;C
+112727842;Shiloh Villarreal           ;CALLE S N                     ;0625;C
+119560851;Valentino Vital             ;DE LAS GARZAS                 ;0922;D
+115511017;Layton Volkow               ;E GOTI                        ;0213;A
+111257352;Trenton Wacher              ;DE LOS NANDUES                ;0524;A
+118253958;Landyn Wolpert              ;HONDURAS                      ;0803;D
+119867855;Alessandro Yamamoto         ;J M ESTRADA                   ;0653;A
+112642648;Ahmad Yankelevich           ;MAGDALENA                     ;0517;A
+117168743;Gustavo Zabal               ;LAS MARTINETAS                ;0424;A
+114870782;Libro Mayor Zarain          ;MENDOZA                       ;0656;B
+116499723;Cresta Zazueta              ;MARTIN FIERRO                 ;0433;A
+116988507;Ander Zentella              ;PANAMA                        ;0217;B
+115215054;Ahmed Zenteno               ;NICARAGUA                     ;0401;E
+112742395;Kingsley Zonana             ;PILA                          ;0313;A
+113007639;Isaac Francis               ;SAN AGUSTIN                   ;0830;C
+118105174;Mauricio Hernández          ;TORDILLO                      ;0648;E
+114555451;Tony Torres                 ;STO DOMINGO                   ;0854;B
+117249911;Leonard González            ;ACC A RUTA 5                  ;0159;C
+115398705;Mahoma Navarro              ;ANGEL GRECO - C 74            ;0506;D
+117239547;Urías Salinas               ;AV 84 - AIME TSCHIFELLY       ;0935;E
+113359859;Duque Setién                ;HUGO LORENZO GIRAUDO          ;0954;B
+113127834;Kareem Cruz                 ;BALLESTER                     ;0449;E
+118996599;Lucian García               ;ISAAC FALK WOLAJ              ;0631;B
+114685628;Marcelo Gómez               ;CALLE 518                     ;0303;A
+119259246;Aarav Curiel                ;CALLE 19                      ;0229;B
+119713436;Leandro Verduzco            ;CALLE S N                     ;0439;D
+115932658;Reinado Varela              ;CALLE S N                     ;0116;B
+110743620;Arcilla Rosas               ;CARLOS FAJARDO - C 86         ;0309;A
+112259745;Kohen Valdés                ;CARLOTA GUZMAN                ;0418;C
+112041049;Dennis Vanegas              ;CALLE S N                     ;0727;D
+115340240;Samir Viveros               ;DISCEPOLO                     ;0707;E
+112291554;Ermias Aranda               ;EMILIO AYARZA                 ;0858;A
+118028360;Otis Espinosa               ;FOURNIER                      ;0919;D
+111528333;Emir Cabrero                ;ISIDRO MENA                   ;0512;E
+111885018;Nixon Cordero               ;LOS FOMENTISTAS               ;0216;A
+111585705;Ty Del Río                  ;P ESTRADA                     ;0745;D
+118966329;Sam Leffmans                ;MARECHAL                      ;0803;E
+110785487;Fletcher Maldonado          ;PEDRO SAN MAURO               ;0705;B
+114518689;Wilson Nemegyei             ;VALENTIN REBOLEO - C 82       ;0124;A
+112963286;Dustin Martínez             ;VIAMENFI                      ;0241;B
+110385516;Hamza Castañeda             ;A GINESTET                    ;0502;A
+113746787;Bryant Ángeles              ;CALLE S N                     ;0443;B
+116166547;Flynn Castellanos           ;BENITO QUINQUELA MARTIN       ;0443;B
+112844789;Lionel Guitart              ;LUIS PERAZZO                  ;0424;B
+119106521;Mohammad Laguillo           ;PADRE A KOENIG                ;0148;A
+114731147;Cason Góngora               ;PANAMA                        ;0230;C
+115917412;Jamir Herrera               ;NARANJOS                      ;0617;D
+111601592;Adén García                 ;SOLDADO ANTONIO M DIAZ        ;0544;C
+118876095;Dakari Guzmán               ;ACONCAGUA - CALLE 627         ;0520;B
+111860899;Justicia Sánchez            ;ZORZAL                        ;0501;C
+110973848;Dillon Montaño              ;AV PILOTTO                    ;0815;E
+118044576;Layne Andraca               ;CALLE 20                      ;0136;D
+114943604;Zaid Borunda                ;CALLE 21                      ;0426;C
+113463737;Alden Galán                 ;CALLE 17                      ;0816;A
+117216872;Nelson Gracia               ;CALLE S N                     ;0719;E
+115118917;Devon Pizano                ;CALLE S N                     ;0554;C
+117217338;Titán Rodríguez             ;CALLE S N                     ;0756;D
+117654017;Chris Acevedo               ;ETNA - CALLE 101              ;1034;B
+118870795;Khari Gómez                 ;DE LA VEGA                    ;0729;B
+115262229;Zeke                        ;INT TAMAGNO - CALLE 104       ;0344;C
+115557081;Noe García                  ;LISANDRO CHIAVARO             ;0728;C
+110452996;Alberto Díaz                ;LIBANO - CALLE 13             ;0406;B
+115077614;Roger Casado                ;PICHINCHA - CALLE 310         ;0306;C
+118515130;Brock Funes                 ;PJE LA COOPERACION            ;1011;A
+114653124;Rex Rodríguez               ;PJE LA UNION                  ;0830;E
+111023904;Quinton Valencia            ;SAN JOSE - CALLE 213          ;0350;D
+111659922;Alvin Ruíz                  ;VILGRE LAMADRID - CALLE 713   ;0525;E
+115005349;Cullen Saldaña              ;WASHINGTON                    ;0144;A
+117507746;Azarías Bacab               ;21 FRANCIA                    ;0101;B
+112025067;Harlan Herrera              ;122 MANUEL M MIGUEZ           ;0333;A
+111016186;Kellan González             ;35 AUSTRIA                    ;0938;E
+119876283;Lennon Aldatz               ;37 BELGICA                    ;1046;A
+115500163;Marcel Cervera              ;55 CABRAL                     ;0529;A
+112465395;Keaton García               ;65 BIS CNO GRL MOSCONI        ;0748;E
+119841578;Morgan Franco               ;AVELLANEDA - 16 BIS           ;0337;D
+116785124;Ricky Saldaña               ;CALLE 126 BIS                 ;0435;E
+116967410;Trey Gutiérrez              ;CALLE 13 BIS                  ;0325;C
+119959217;Karsyn Meléndez             ;CALLE 127                     ;0208;E
+116443839;Langston Villa              ;CALLE 152                     ;0542;D
+111507003;Molinero Acevedo            ;CALLE 234                     ;0547;A
+113482898;Jaim Fauser                 ;CALLE 236                     ;0908;D
+117704271;El Salvador Barajas         ;CALLE 39 BIS                  ;0737;A
+118101140;Amias Cisneros              ;CALLE 42                      ;0820;A
+115178513;Tadeo Llanos                ;CALLE S N                     ;0114;C
+113118807;Curtis Villalobos           ;CALLE S N                     ;1020;B
+110586915;Lachlan Campos              ;CALLE S N                     ;1015;D
+114798465;Amós Filizola               ;CASTELLANO - 59 BIS           ;0515;E
+112150169;Anakin Favela               ;COLUMNA 265                   ;0247;E
+117369317;Krew Sandoval               ;COLUMNA 271                   ;0615;B
+116392991;Tomas Parra                 ;RUTA PCIAL 19                 ;0102;A
+118213256;Jefferson Cicero            ;20 DE JULIO                   ;0810;C
+119920259;Yosef Arenas                ;20 DE JUNIO                   ;0954;B
+119842418;Bruno Aburto                ;AGUADO                        ;0312;E
+119483276;Korbin Sánchez              ;ALBERTI                       ;0459;D
+111498470;Agustín Padilla             ;AMENABAR                      ;0728;B
+110954740;Cayson Rodríguez            ;AUT PANAMERICANA RAMAL PILAR  ;0143;E
+118272947;Mateo Blanchet              ;AV LOS CIRUELOS               ;0826;A
+116921474;Vihaan Garduño              ;AZCUENAGA                     ;0231;C
+111990774;Jamie Hernández             ;BELTRAN                       ;0827;E
+117820360;Clyde Vargas                ;BLAS PARERA                   ;0127;A
+118491666;Brendan Castañeda           ;BUENOS AIRES                  ;0222;C
+114135553;Jagger Colmenero            ;CALLE 19                      ;0308;C
+117344567;Carmelo Garcidueñas         ;CALLE 5                       ;0737;B
+111705425;Harry Castillo              ;CALLE S N                     ;0638;B
+115808896;Natanael Mercado            ;CALLE S N                     ;0230;A
+116731009;Mitchell Y Rodríguez        ;CALLE S N                     ;0430;A
+117223597;Darren Arroyo               ;CALLE S N                     ;0620;E
+115599572;Rayo Ortiz                  ;CALLE S N                     ;0910;C
+118741577;Jedidiah Serrano            ;CALLE S N                     ;0711;A
+119837407;Palanqueta Navarro          ;CALLE S N                     ;0837;B
+113001240;Lochlan Fernández           ;CALLE S N                     ;0628;A
+115341436;Bellamy Valle               ;CALLE S N                     ;0307;B
+112782287;Eddie De Cetina             ;CALLE S N                     ;0236;E
+117690331;Rayden Brito                ;CALLE S N                     ;1029;B
+116991417;Reese De León               ;CASEROS                       ;0712;E
+113384887;Stanley Trejo               ;CARLOS V                      ;0713;A
+111426056;José Ríos                   ;CHACHO PENALOZA               ;0816;B
+113565542;Houston Pérez               ;CHAPURUA                      ;1021;D
+113968315;Douglas Reyna               ;CHARLONE                      ;0716;A
+110123034;Vincenzo Cantoni            ;COLIBRI                       ;0252;E
+111096759;Casen Lira                  ;COLOMBIA                      ;0401;B
+116401461;Esmeril Esper               ;CONCORDIA                     ;0920;B
+110539491;Joziah Ruiz                 ;DEL TULIPAN                   ;1054;D
+119813907;Leighton Meneses            ;EINSTEIN                      ;0601;A
+114966250;Marcelo González            ;EL LIRIO                      ;0123;B
+115093238;Atreo Villegas              ;ESPERANZA                     ;0338;C
+112976964;Aron Martínez               ;ESPINILLO                     ;0539;D
+116521481;Hugh García                 ;ESTADOS UNIDOS                ;0539;C
+118312163;Musa López                  ;FAUSTINO SARMIENTO            ;0843;D
+110916631;Tommy Mattioli              ;GALILEO                       ;0216;B
+111918130;Alfredo Manzanilla          ;FRAY MAMERTO ESQUIU           ;0606;A
+118491367;Júnior Núñez                ;GUARANI                       ;0915;E
+110200833;Neil Mendoza                ;ITALIA                        ;0305;D
+116501859;Westley Negrete             ;ISLA LENNOX                   ;1026;A
+113152896;Bancos López                ;JOSE MARIA PAZ                ;0711;C
+116404865;Eliel Ponce De León         ;JUAN RAMON FERNANDEZ          ;0831;C
+113857116;Melvin Peralta              ;JUJUY                         ;0856;C
+115322870;Máximo Ruiz                 ;JUNIN                         ;0733;D
+113739409;Brezo Pastor                ;JURAMENTO                     ;0416;C
+119879671;Colten Villalobos           ;LAS ACACIAS                   ;1023;A
+119471238;Lanza Vázquez               ;LAS FRESIAS                   ;0128;D
+110011547;Estrella Nueva Rotter       ;LAS MORERAS                   ;0209;D
+113032575;Rastro Díaz                 ;LEOPOLDO LUGONES              ;0701;A
+111960218;Axl Quintana                ;LOPEZ CAMPOS                  ;0629;E
+110962857;Ramon Cortés                ;LOS ABEDULES                  ;0620;C
+115731330;Vicente López               ;LOS GLADIOLOS                 ;1049;C
+114464504;Brennan Ramos               ;LOS OLMOS                     ;0717;B
+115123293;Caspio Ramírez              ;LOS OLMOS                     ;1048;A
+114168854;Remi Sandoval               ;LOS PATOS                     ;0713;E
+110197818;Deandre Salazar             ;LOS TULIPANEROS               ;0741;E
+113623431;Legado Romero               ;MANUEL SAVIO                  ;0216;D
+113805542;Sotavento Díaz              ;MARIO DUTTO                   ;0321;A
+115706429;Valentin Laris              ;MAIPU                         ;0334;B
+115259864;Ben Bravo                   ;MARTIN FIERRO                 ;0557;D
+117530184;Louie Terán                 ;OLIVOS                        ;0258;D
+115215460;Westin Violante             ;PEDRO DE MENDOZA              ;0216;C
+118647133;Wayne Navarro               ;PJE JUJUY                     ;0901;B
+114096736;Benicio Jouanen             ;PJE 6                         ;0236;D
+116069309;Gris Martínez               ;RIVADAVIA                     ;0206;B
+117970734;Zayd Martínez               ;RIVADAVIA                     ;1055;C
+115700787;Gatlin Quiñónez             ;SAAVEDRA                      ;0835;B
+118504433;Mekhi Rodríguez             ;SABIN                         ;0350;C
+110491815;Orlando Olavarrieta         ;SAN MARTIN                    ;0627;C
+114422126;Bjorn Ponce                 ;SANTA MARIA                   ;0213;A
+114213603;Harley Carrillo             ;SUIPACHA                      ;0540;E
+111222910;Alonso Cherit               ;URQUIZA                       ;0733;E
+114471111;Río Cherit                  ;VAN GOGH                      ;0208;B
+117029148;Aldo Malagón                ;YATASTO                       ;0317;A
+119017715;Byron Rosado                ;USPALLATA                     ;0237;C
+112327367;Eliseo Cortés               ;CALLE S N                     ;0111;E
+110664448;Ernesto González            ;ADAMS                         ;0345;D
+112553796;Garra Olvera                ;ALFREDO LASALLE               ;0826;B
+116598078;Thaddeus Arenas             ;ALMTE CORDERO                 ;0631;C
+118821234;Brecken Mckinster           ;ANSELMO SAENZ VALIENTE        ;0656;C
+110647028;Kace Cuenca                 ;ATLANTIDA                     ;0630;E
+115962738;Kellen Lidt                 ;ARISTOTELES                   ;0203;D
+118480375;Enoc Riojas                 ;BARRACAS                      ;0304;E
+115838068;Kiaan Acosta                ;B RISSO                       ;0419;E
+113368257;Lian Briones                ;BRAGADO                       ;0316;A
+115583766;Credo Gutiérrez             ;CALLE S N                     ;0802;C
+114469043;Rohan De La Peña            ;CALLE S N                     ;1002;C
+114285394;Callahan Campos             ;CALLE S N                     ;0216;B
+114650993;Jaxxon Zavaleta             ;CALLE S N                     ;0507;C
+113973803;Oceano López                ;CALLE S N                     ;0938;C
+110095269;Crosby Vidal                ;CNL VICENTE DUPUY             ;0454;A
+116786746;Pizca Castañón              ;CNL JUAN R ROJAS              ;0244;A
+116347639;Gary Gutiérrez              ;COSTA RICA                    ;0227;B
+117687004;Mi Lo Parra                 ;CRUZ DEL SUR                  ;1026;E
+114260102;Ira García                  ;E WILDE                       ;0111;E
+115549064;Magnus Murad                ;EL CHAJA                      ;0805;A
+112099217;Salem Dolci                 ;DR HEDEL                      ;0613;D
+115135566;Abdullah Ortíz              ;EL IRUPE                      ;0608;D
+116338474;Kye Osorio                  ;ESCR VAZQUEZ                  ;0909;A
+113916885;Tru Santander               ;EVARISTO CARRIEGO             ;0937;E
+119068397;Bosque Bernal               ;GRIERSON                      ;0228;A
+111845019;Jon Carrocera               ;GRL ALVARADO                  ;0909;A
+116242138;Misael Peredo               ;HAITI                         ;0742;C
+113565335;Enloquecer Cortázares       ;J DE LA ROSA                  ;0243;B
+117372906;Braden Steinbruch           ;J V GONZALEZ                  ;1006;A
+114383170;Carl Rivera                 ;JOSE L LEMOS                  ;0939;B
+114375006;Hassan Suárez               ;LINCOLN                       ;0527;E
+111551211;Emory Mouret                ;LUJAN                         ;0624;C
+117265217;Kristian Guevara            ;NAVARRO                       ;0732;D
+118990448;Alarico Munari              ;NECOCHEA                      ;0642;B
+112911360;Ambrosio Mora               ;OCEANO ATLANTICO              ;0312;E
+110038833;Darío Del Campo             ;RIO LIMAY                     ;0818;D
+110087988;Alano Meguro                ;RENDON                        ;0603;D
+114567961;Presagiar Navarro           ;RIO BAMBA                     ;0259;D
+119180287;Boden Ortiz                 ;RIO GRANDE                    ;0701;C
+112465772;Juelz Sevilla               ;SAN REMO                      ;1009;C
+117329306;Kristopher Cigarroa         ;SANTA MAGDALENA               ;0916;B
+117513515;Génesis Hernández           ;SICILIANO                     ;0120;B
+110088343;Idris Ayala                 ;SOBRAL                        ;1008;E
+110693806;Ameer Aranda                ;TRES ARROYOS                  ;0653;E
+119474439;Anders De La Torre          ;VILLARINO                     ;1052;A
+115859471;Darian Díaz                 ;VENUS                         ;0426;E
+117105372;Kase García                 ;ACCESO AUTOPISTA              ;0228;C
+115964789;Ario Peña                   ;SARGENTO CABRAL               ;0159;C
+111702226;Danés Ramos                 ;ACOYTE                        ;0146;E
+116402106;Guillermo Rivas             ;ARRUIZ                        ;0430;E
+114334066;Elíseo Sáinz                ;ALMAGRO                       ;0652;A
+113619494;Jakobe Velasco              ;AV J J CISTERNA               ;0647;E
+117850693;Thatcher Villarreal         ;ARQUIMEDES                    ;0801;C
+118059998;Eugenio Carrasco            ;BARRANQUILLA                  ;1048;A
+116867971;Ishaan Mercado              ;BALBOA                        ;0223;A
+115359659;Larry Ramos                 ;BRAGADO                       ;0503;B
+119882931;Wesson Hernández            ;BERASAIN                      ;0903;E
+111228149;Yehuda Cwilich              ;CALLE S N                     ;0210;B
+111798369;Álvaro Cerezo               ;CALLE S N                     ;0430;B
+112066024;Poli Pérez                  ;CALLE S N                     ;0414;D
+118143093;Bronson Alcalá              ;CALLE S N                     ;0715;C
+115009708;Dilan Almaguer              ;CALLE S N                     ;0759;D
+115717364;Kole Barreto                ;CAMPICHUELO                   ;1018;E
+118731017;Kyro Pérez                  ;CARACAS                       ;0645;A
+114909918;Tristen Quiroz              ;CIUDAD DE MEDELLIN            ;0719;A
+112859531;Resplandor Reguera          ;CHARCAS                       ;0425;D
+118922860;Brayan Díaz                 ;COLECTORA                     ;0203;B
+119823762;Jadiel Rivera               ;DALEMBERT                     ;0443;B
+114461335;Kamryn Amaro                ;DOMINGO MARIMON               ;0815;B
+114360114;Demetrio Block              ;EL OMBU                       ;0237;D
+113349002;Maurice Chávez              ;FALUCHO                       ;0324;A
+115990357;Arriano Contreras           ;FERMI                         ;0152;C
+118416135;Kabir Cornejo               ;FRANCIA                       ;0949;A
+117040222;Rocoso Hermosillo           ;GRL JUAN GREGORIO LEMOS       ;0138;D
+113229289;Rudy Ojeda                  ;GRL RAMON CASTILLA            ;0209;D
+117109332;Cachondo Ortiz              ;ISLAS JAMAICAS                ;0513;A
+115421900;Rodney Pérez                ;JOSE M BUSTILLO               ;0332;B
+112530374;Yousef Romero               ;ITALIA                        ;0446;B
+111828671;Felipe Bonilla              ;JUSTO SUAREZ                  ;0931;E
+115085238;Robin Martínez              ;JUAN JOSE VERTIZ              ;0648;A
+116333440;Aydin Briseño               ;LAS CINA CINAS                ;0816;D
+113200662;Dior Y Muriel               ;LA GAZETA                     ;0327;E
+112659757;Emperador Y Muriel          ;LOS CASTANOS                  ;0655;E
+112553641;Camioneta Barabejzyk        ;LOS NARANJOS                  ;0442;A
+116284376;Brodie Lauferman            ;LOS TRIGALES                  ;0933;E
+113549103;Londres Sánchez             ;MARIANO BOEDO                 ;1021;E
+116806209;Eithan Arriola              ;PARAGUAY                      ;0351;A
+118203787;Stefan Hernández            ;PASAJE 1                      ;0135;E
+117638866;Ulises Wiechers             ;RIO ARRECIFES                 ;0155;E
+113329610;Camilo Boo                  ;PJE HELBERT                   ;0811;E
+111998302;Branson Castro              ;ZARATE                        ;0208;E
+117616108;Jakari Fernández            ;A CHOCANO - 1005              ;0303;B
+118489540;Judson Avendaño             ;AMADO NERVO - 892             ;0644;B
+113913341;Yahir Guzmán                ;BELGRADO - 630                ;0140;A
+114812074;Zavier López                ;CALLE S N                     ;0939;A
+114878022;Damari Cruz                 ;BLANDENGUES - 501             ;0857;A
+119468495;Jakob Balanzar              ;CALLE 1003A                   ;0613;A
+114519767;Jaxx Gallardo               ;CALLE 1119                    ;0135;B
+111821247;Bentlee Ruiz                ;CALLE 1126A                   ;0130;D
+118412578;Caín Guerrero               ;CACHIMAYO - 980               ;0428;C
+116558547;Niklaus Aguirre             ;CALLE 1143A                   ;0727;E
+118493987;Rey Robledo                 ;CALLE 1325                    ;0909;A
+114024846;Zahir Samperio              ;CALLE 1349                    ;0220;A
+118495448;Aries Reyes                 ;CALLE 1370                    ;0623;E
+114537202;Blaine Cherem               ;CALLE 1436A                   ;1041;A
+118856329;Kyng Sutton                 ;CALLE 1365                    ;0611;E
+112266607;Castiel Martin              ;CALLE 1381                    ;0442;E
+118889166;Henrik Ávila                ;CALLE 1494                    ;0647;E
+115973988;Joey Da Motta               ;CALLE 1441                    ;0121;D
+111292505;Jalid Jauregui              ;CALLE 1519A                   ;0344;D
+114528449;Soportar Molina             ;CALLE 1518                    ;0632;C
+116360310;Graysen Ortíz               ;CALLE 1683                    ;0429;A
+117778817;Jair Pando                  ;CALLE 52                      ;0736;A
+114174881;Kylen Rodríguez             ;CALLE 614A                    ;0715;D
+117343280;Darwin Solís                ;CALLE 701                     ;0432;C
+111961034;Alfredo Valencia            ;CALLE S N                     ;0231;E
+117307066;Ayan Abarca                 ;CALLE S N                     ;1043;E
+117752839;Kenji Esparza               ;CALLE S N                     ;0831;A
+110205118;Zakai Goepfert              ;CERDENA - 601A                ;0451;A
+111154245;Avi Hernández               ;PJE MAGALLANES                ;0405;A
+112986778;Cory Montalvo               ;CONGRESO DE TUCUMAN - 67      ;0705;E
+119523363;Pescador Gómez              ;DEAN FUNES - 912A             ;0918;E
+111794680;Jacoby Medina               ;EL NANDU                      ;0603;D
+117754158;Osiris Becerril             ;EL TORDILLO                   ;0230;E
+116896001;Harlem Urdanivia            ;EL PONCHO - 431               ;0704;E
+118321942;Jamal Tomoka                ;ESTOCOLMO - 628A              ;0701;B
+111035689;Santos Chong                ;FRANCIA - 227A                ;0901;B
+115878652;Wallace Yépez               ;FERNANDO FABER - 936          ;0124;C
+113439515;Brett Andrade               ;GABINO EZEIZA - 1217          ;0214;E
+115424194;Zorro Arias                 ;GINEBRA - 626A                ;0924;C
+113994863;Leif Ponce De León          ;GRL O'HIGGINS - 225           ;0807;D
+116305028;Maison Morales              ;HORTENCIA - 723A              ;0154;C
+113377388;Rubén Lomelí                ;IRLANDA - 641A                ;1011;E
+117462101;Adler Castañeda             ;KUWAIT - 871A                 ;0257;C
+118539679;Zev Coria                   ;JUAN R ESTOMBA - 872          ;0420;D
+118017979;Calum Araujo                ;LOS ONAS - 432A               ;0205;A
+113974218;Kelvin Salas                ;MANUEL QUINTANA - 356         ;1013;A
+112358743;Zacarías Torres             ;MOLIERE - 1002                ;0938;B
+114569403;Bridger Ocampo              ;SALAS                         ;0104;B
+117636584;Mccoy Renaud                ;PASO DE LOS PATOS - 28A       ;0212;C
+113305309;Siete Díaz                  ;PJE S N                       ;0541;E
+110292887;Shepard Ponce               ;PJE S N                       ;0430;B
+117191110;Azrael Sánchez              ;PJE S N                       ;0408;B
+118865014;Leroy Cook                  ;PUAN - 929A                   ;0805;A
+112715403;Terry Krivitzky             ;RCA DE PARAGUAY - 204         ;0503;C
+119445047;Harold Guss                 ;ROBERTAZZI                    ;0930;C
+114334520;Mac Horwitz                 ;TIGRE - 162                   ;0241;D
+118522738;Mordejai Stalnikowitz       ;TORINO - 738A                 ;1001;C
+115640351;Ahmir Fujikami              ;CURUPAYTI                     ;0743;B
+116778994;California Fujikami         ;CALLE 11 BIS                  ;0507;B
+117473778;Franco Windish              ;CALLE 2                       ;0726;B
+116891672;Trento Harcuch              ;CALLE 90                      ;0725;C
+115328002;Blaise Morales              ;CALLE 92                      ;0824;A
+114918777;Coen Méndez                 ;CALLE S N                     ;0713;D
+114044668;Dominik San Román           ;CALLE S N                     ;0243;E
+110355899;Marley Niebla               ;EUCALIPTUS                    ;0514;B
+116726446;Davion Muñoz                ;LEONARDO COLE                 ;0210;D
+117100164;Jeremías Gallo              ;PJE S N                       ;0521;B
+113883313;Riggs Ponce                 ;PJE S N                       ;0831;C
+115979343;Jones Velasco               ;SILVANI GOMEZ                 ;0611;C
+113770905;Voluntad Bravo              ;CALLE 10                      ;0236;B
+112008607;Damir Rodríguez             ;CALLE 153                     ;0438;A
+110447560;Dangelo Guinzberg           ;CALLE 22                      ;0728;C
+116821676;Canaán Gómez                ;CALLE 36                      ;0640;E
+115889495;Dion Esperón                ;CALLE 50 BIS                  ;0815;B
+115136376;Jabari Peters               ;GENIN                         ;0205;C
+118688524;Landry Alarcón              ;11 DE SETIEMBRE               ;0406;E
+112696328;Salvatore Bárcena           ;AV TUYU                       ;1036;C
+113982247;Kody Carrillo               ;CALLE 101                     ;1012;B
+113175750;Hakeem Cervantes            ;CALLE 13 BIS                  ;0624;C
+114553451;Truett Colomé               ;CALLE 23 BIS                  ;0307;A
+114549264;Gerald Karpovitch           ;CALLE S N                     ;0925;D
+119358856;Lírica Martínez             ;HAITI                         ;0628;B
+118160219;Gordon Muñoz                ;INDEPENDENCIA                 ;0855;B
+118703803;Jovanni Vidal               ;MARTIN GUEMES                 ;0844;E
+116772444;Kamdyn Macías               ;RAFAEL VELAZQUEZ              ;0946;C
+110525552;Alistair Abdalá             ;BRUNO MAFFI                   ;1033;A
+112904575;Cillian Ascencio            ;DORREGO                       ;0924;D
+116531106;Fomentar Ortíz              ;FELIPE DE ROBLES              ;0727;C
+110161693;Terrance Herrera            ;INT CORONEL BRAVO             ;0924;C
+118220331;Murphy Gutiérrez            ;SENA                          ;1016;A
+119353912;Zyair Hernández             ;CALLE 127                     ;0930;D
+116108141;Cedric Parra                ;CALLE 133                     ;0236;D
+117862677;Roma Rovalo                 ;CALLE 123                     ;1004;C
+117276616;Abner Navarro               ;CALLE 169                     ;0256;C
+119033836;Cuchilla Cruz               ;SALVADOR ALLENDE CALLE 46     ;0727;D
+119131090;Dayton Hernández            ;VILLA GUSTAVA CALLE 38        ;0211;C
+112457069;Jad Ramírez                 ;9 DE JULIO                    ;0901;A
+113809905;Xzavier Valdés              ;ALIPI                         ;0339;E
+117113209;René Gutiérrez              ;ALMONACID                     ;0216;E
+115320550;Vance Olivares              ;ALGARROBOS                    ;0649;B
+113944270;Duncan Y López              ;CALLE 49                      ;0158;D
+111920055;Frankie Y López             ;PJE S N                       ;0719;B
+116135378;Obispo Murillo              ;17 - 44 SO                    ;0814;C
+119554241;Davian Abundis              ;B LYNCH                       ;0553;C
+111175446;Everest Cortés              ;BAIGORRITA                    ;0959;D
+113791679;Brezo Fong                  ;AZARA                         ;0831;B
+116996924;Jaxen González              ;JERONIMO NADAL                ;0816;E
+112844053;Marlon Juárez               ;CALLE 51                      ;0421;A
+110256804;Maxton Lavín                ;JOAQUIN CORNET                ;0126;D
+119338583;Reginald Manautou           ;CALLE 1 BIS                   ;1051;B
+114128017;Harris Murillo              ;CALLE 194                     ;0114;B
+114212069;Jericó Palomo               ;JORGE BERMUDEZ                ;0204;E
+117182702;Keenan Ramírez              ;CALLE 3                       ;0349;C
+113753492;Korbyn Ríos                 ;CALLE 31                      ;0815;D
+111124382;Wes Salgado                 ;CALLE 5                       ;0719;B
+118411811;Eliezer Sánchez             ;CALLE 5                       ;0328;A
+118101326;Jeffery García              ;CALLE 7                       ;0206;E
+118907802;Kalel Oliva                 ;CALLE 6                       ;0543;A
+115398164;Kylian Radován              ;CALLE 8 BIS                   ;0350;E
+117788492;Tornero Mendiolea           ;CALLE 65                      ;0929;D
+117854678;Willie Franco               ;CALLE S N                     ;0728;E
+112662479;Rogelio Rodríguez           ;CALLE S N                     ;0216;B
