@@ -1,24 +1,26 @@
 package org.ar.miguel.FILES.E39;
 
 import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
- * Desarrollar un programa que solicitando un código de
- * materia permita seleccionar todos los registros
- * de alumnos que se anotaron para rendirla y los grabe
- * en otro archivo
+ * Modificar para que permita agregar mas inscripciones de alumnos a los
+ * exámenes de mayo. Para control sólo imprima los agregados.
  */
 public class E39 {
 
     private static String FILE_INPUT = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\E39\\LOTE.txt";
 
     public static void main(String[] args) {
+        List<String> records = new ArrayList<>();
         Scanner s = new Scanner(System.in);
         String readRecord = null;
         String[] record = new String[0];
         String res = "";
         String out = "";
+        String outList = "";
         int i = 0;
         System.out.println("ENTER A NEW SUBSCRIPTION? S/N");
         res = s.nextLine();
@@ -42,14 +44,20 @@ public class E39 {
                 System.out.println("ENTER STUDENT'S NAME");
                 String name = s.nextLine();
                 out = "";
+                outList = "";
                 out = "\n" + leg + ";" + cod + ";" + day + ";" + month + ";" + year + ";" + name;
+                outList = leg + ";" + cod + ";" + day + ";" + month + ";" + year + ";" + name;
+                records.add(outList);
                 bufferedWriter.write(out);
                 System.out.println("ENTER A NEW SUBSCRIPTION? S/N");
                 res = s.nextLine();
             }
+
             bufferedWriter.close();
             fileWriter.close();
 
+            System.out.println("RECORDS ADDED : " + records.size());
+            records.stream().forEach(System.out::println);
         } catch (IOException e) {
             e.printStackTrace();
         }
