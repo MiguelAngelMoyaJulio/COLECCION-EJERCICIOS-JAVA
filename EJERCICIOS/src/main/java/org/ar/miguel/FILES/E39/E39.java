@@ -42,13 +42,8 @@ public class E39 {
                 System.out.println("ENTER STUDENT'S NAME");
                 String name = s.nextLine();
                 out = "";
-                out = leg + ";" + cod + ";" + day + ";" + month + ";" + year + ";" + name + "\n";
-                if (i == 0) {
-                    bufferedWriter.write("\n" + out);
-                    i++;
-                } else {
-                    bufferedWriter.write(out);
-                }
+                out = "\n" + leg + ";" + cod + ";" + day + ";" + month + ";" + year + ";" + name;
+                bufferedWriter.write(out);
                 System.out.println("ENTER A NEW SUBSCRIPTION? S/N");
                 res = s.nextLine();
             }
