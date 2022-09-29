@@ -5,10 +5,9 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- * Desarrollar un programa que solicitando un código de
- * materia permita seleccionar todos los registros
- * de alumnos que se anotaron para rendirla y los grabe
- * en otro archivo
+ * Dados el archivo del ejercicio 20 que tiene todas las inscripciones del día, y otro con idéntica
+ * estructura (registro) que tiene todas las inscripciones anteriores, desarrollar un programa que agregue
+ * al archivo anterior el contenido del archivo del día.
  */
 public class E38 {
 
