@@ -29,11 +29,11 @@ public class E38 {
 
             while ((readRecord = bufferedReader.readLine()) != null) {
                 if (i == 0) {
-                    bufferedWriter.write("\n"+readRecord + "\n");
+                    bufferedWriter.write("\n" + readRecord);
                     i++;
+                } else {
+                    bufferedWriter.write("\n" + readRecord);
                 }
-                record = readRecord.split(";");
-                bufferedWriter.write(readRecord + "\n");
             }
 
             bufferedReader.close();
