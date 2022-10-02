@@ -6,8 +6,9 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Modificar para que permita agregar mas inscripciones de alumnos a los
- * exámenes de mayo. Para control sólo imprima los agregados.
+ * Dado el archivo ordenado por fecha y para igual fecha por código de materia y
+ * para igual materia por número de legajo.
+ * Desarrollar el programa que imprima el listado de alumnos inscriptos en cada materia, según se
  */
 public class E40 {
 
