@@ -5,9 +5,10 @@ import java.net.MulticastSocket;
 import java.util.Scanner;
 
 /**
- * En una farmacia, se desea actualizar el stock de medicamentos con la llegada de un lote reciente de un
- * laboratorio determinado. Ambos archivos se encuentran ordenados en forma ascendente por Código de
- * Producto.
+ * Se tiene un archivo maestro de facturas de gas de una localidad del Gran Buenos Aires y otro con las novedades
+ * de pagos del mes de dichas facturas, ordenados en forma ascendente por Nº de medidor. Se desea imprimir un
+ * listado con el detalle de los deudores, y los siguientes totales de Control: cant total de deudores y monto total
+ * adeudado.
  */
 public class E42 {
     private static final String FILE_MASTER = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\MATING\\E42\\MASTER.txt";
