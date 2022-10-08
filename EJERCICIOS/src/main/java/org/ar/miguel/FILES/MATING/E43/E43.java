@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
  * Se tiene un archivo maestro de cuentas de un Banco y otro con las novedades de depósitos de dichas cuentas,
  * ordenados en forma ascendente por Nº de cuenta. Se desea obtener un listado como el que se muestra en
  * salida, siguiendo las especificaciones del proceso.
- * ENTRADA:
+2 * ENTRADA:
  * Archivo maestro (1 registro por cuenta – ordenado secuencial ascendente por nrocuenta)
  * NROCUENTA NOMBRECLTE SALDO
  * Archivo de novedades: (1, varios o ningún registro por cuenta)
@@ -57,7 +57,7 @@ public class E43 {
 
             frNews = new FileReader(FILE_NEWS);
             brNews = new BufferedReader(frNews);
-            //Put the exact location of the file Datos.csv
+
             recordMaster = brMaster.readLine();
             recordNews = brNews.readLine();
             System.out.println("NUM.ACCOUNT" + "     " + "CLIENT" + "     " + "BALANCE" + "     " + "OBSERVATIONS");
@@ -152,10 +152,6 @@ public class E43 {
         } else {
             System.out.println("    " + master[0] + "          " + master[1] + "     " + df.format(Double.parseDouble(master[2])) + "         " + "*");
         }
-    }
-
-    static void minAccount() {
-
     }
 }
 
