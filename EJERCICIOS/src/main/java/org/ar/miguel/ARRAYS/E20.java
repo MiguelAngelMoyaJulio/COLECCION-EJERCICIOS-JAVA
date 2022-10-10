@@ -14,26 +14,29 @@ public class E20 {
         Scanner s = new Scanner(System.in);
         int[] arra;
         int n = 0, num = 0;
+
         System.out.println("enter the size of the array");
         n = Integer.parseInt(s.nextLine());
+
         if (n < 30) {
             arra = new int[n];
-            for (int i = 0; i < arra.length; i++) {
-                System.out.println("enter a number");
-                num = Integer.parseInt(s.nextLine());
-                arra[i] = num;
-            }
-            if (arra[arra.length - 1] < 10) {
-                System.out.println("elements' array");
-                for(int i:arra){
-                    System.out.println(i);
-                }
-            }
+            result(s, arra, num);
         } else {
             System.out.println("Try again");
         }
-
-
     }
 
+    private static void result(Scanner s, int[] arra, int num) {
+        for (int i = 0; i < arra.length; i++) {
+            System.out.println("enter a number");
+            num = Integer.parseInt(s.nextLine());
+            arra[i] = num;
+        }
+        if (arra[arra.length - 1] < 10) {
+            System.out.println("elements' array");
+            for (int i : arra) {
+                System.out.println(i);
+            }
+        }
+    }
 }
