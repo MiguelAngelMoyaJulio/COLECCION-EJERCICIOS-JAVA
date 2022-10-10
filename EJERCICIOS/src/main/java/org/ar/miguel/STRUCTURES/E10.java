@@ -14,13 +14,15 @@ import java.util.Scanner;
 public class E10 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int cantA = 0, cantE = 0, cantI = 0, cantO = 0, cantU = 0, cantWords = 0;
-        int max = 0;
+        int cantA = 0, cantE = 0, cantI = 0, cantO = 0, cantU = 0, cantWords = 0, max = 0;
         String p = "";
         String[] palabras = new String[0];
+
         System.out.println("enter a sentence");
+
         p = s.nextLine();
         palabras = p.split(" ");
+
         for (int i = 0; i < p.length(); i++) {
             if (p.substring(i, i + 1).equalsIgnoreCase("a")) {
                 cantA++;
@@ -38,27 +40,24 @@ public class E10 {
                 cantWords++;
             }
         }
-        for(int i=0;i<palabras.length;i++){
-            if(i==0){
+
+        for (int i = 0; i < palabras.length; i++) {
+            if (i == 0) {
                 max = palabras[0].length();
             }
 
-            if(palabras[i].length() > max){
+            if (palabras[i].length() > max) {
                 max = palabras[i].length();
             }
 
         }
 
         System.out.println("amount of words " + (cantWords + 1));
-        System.out.println("A : "+cantA);
-        System.out.println("E : "+cantE);
-        System.out.println("I : "+cantI);
-        System.out.println("O : "+cantO);
-        System.out.println("U : "+cantU);
-        System.out.println("longest word : "+max);
-    }
-
-    private static void process() {
-
+        System.out.println("A : " + cantA);
+        System.out.println("E : " + cantE);
+        System.out.println("I : " + cantI);
+        System.out.println("O : " + cantO);
+        System.out.println("U : " + cantU);
+        System.out.println("longest word : " + max);
     }
 }
