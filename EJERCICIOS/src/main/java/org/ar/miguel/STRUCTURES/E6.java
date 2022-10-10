@@ -12,6 +12,10 @@ public class E6 {
         int a, fac = 1;
         System.out.println("enter a number");
         a = Integer.parseInt(s.nextLine());
+        result(a, fac);
+    }
+
+    private static void result(int a, int fac) {
         for (int i = 1; i <= a; i++) {
             fac = fac * i;
         }
