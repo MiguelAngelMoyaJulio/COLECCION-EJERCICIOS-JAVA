@@ -13,6 +13,10 @@ public class E11 {
         int c = 0, n = 0;
         System.out.println("enter a number ");
         n = Integer.parseInt(s.nextLine());
+        isPrimeOrNot(n, c);
+    }
+
+    private static void isPrimeOrNot(int n, int c) {
         for (int i = 1; i <= n; i++) {
             if (n % i == 0) {
                 c++;
@@ -25,3 +29,4 @@ public class E11 {
         }
     }
 }
+
