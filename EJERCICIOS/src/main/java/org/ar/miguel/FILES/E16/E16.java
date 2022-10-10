@@ -20,21 +20,26 @@ import java.util.Scanner;
  * o bien puede contener uno, varios o todos los sublotes vacíos (ceros consecutivos).
  */
 public class E16 {
+    private final static String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E16\\LOTE.txt";
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
+
         DecimalFormat df = new DecimalFormat("##.##");
         Scanner s = new Scanner(System.in);
-        int partialSum = 0, partialInc = 0, n = 0;
-        int cantSubLotes = 0;
+        int partialSum = 0, partialInc = 0, n = 0, cantSubLotes = 0;
         int maximum = 0, posMax = 0, i = 0, j = 0;
-        int minimum = 0;
-        int canReg = 0;
-        int cantZeros = 0;
+        int minimum = 0, canReg = 0, cantZeros = 0;
+
         double average = 0d;
+
         String cadenaLectura = null;
+
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E16\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
+
             while ((cadenaLectura = bufferedReader.readLine()) != null) {
                 canReg++;
                 n = Integer.parseInt(cadenaLectura);
@@ -82,8 +87,7 @@ public class E16 {
                     System.out.println(e.getMessage());
                 }
             }
-            bufferedReader.close();
-            fileReader.close();
+
             if (cantZeros == (canReg - 1) && canReg > 1) {
                 System.out.println("Sublots are empty");
             } else if (canReg == 1) {
@@ -102,6 +106,13 @@ public class E16 {
 
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
