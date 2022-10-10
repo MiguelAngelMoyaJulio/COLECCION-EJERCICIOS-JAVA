@@ -13,8 +13,12 @@ public class E1 {
         System.out.println("enter two numbers");
         a = Integer.parseInt(s.nextLine());
         b = Integer.parseInt(s.nextLine());
-        System.out.println("addition "+(a+b));
-        System.out.println("substraction "+(a-b));
-        System.out.println("multiplication "+(a*b));
+        total(a, b);
+    }
+
+    private static void total(int a, int b) {
+        System.out.println("addition " + (a + b));
+        System.out.println("substraction " + (a - b));
+        System.out.println("multiplication " + (a * b));
     }
 }
