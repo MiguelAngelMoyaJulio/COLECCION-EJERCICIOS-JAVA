@@ -17,11 +17,11 @@ import java.util.Scanner;
 public class E13 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int pos, currentNumber = 0, nextNumber = 1, aux = 0;
-        int numberShow = 0, i;
-        i = 1;
+        int pos, currentNumber = 0, nextNumber = 1, aux = 0, numberShow = 0, i = 1;
+
         System.out.println("enter a number ");
         pos = Integer.parseInt(s.nextLine());
+
         while (i <= pos) {
             numberShow = currentNumber;
             i++;
@@ -29,6 +29,6 @@ public class E13 {
             currentNumber = nextNumber;
             nextNumber = aux;
         }
-        System.out.println("number in position "+pos+" : "+numberShow);
+        System.out.println("number in position " + pos + " : " + numberShow);
     }
 }
