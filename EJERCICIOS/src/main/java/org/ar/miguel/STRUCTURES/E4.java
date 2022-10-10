@@ -14,6 +14,10 @@ public class E4 {
         System.out.println("program show the n first natural numbers");
         System.out.println("enter the number");
         n = Integer.parseInt(s.nextLine());
+        result(n);
+    }
+
+    private static void result(int n) {
         for (int i = 1; i <= n; i++) {
             System.out.println("number " + i);
         }
