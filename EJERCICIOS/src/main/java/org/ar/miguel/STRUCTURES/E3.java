@@ -15,6 +15,10 @@ public class E3 {
         l1 = Integer.parseInt(s.nextLine());
         l2 = Integer.parseInt(s.nextLine());
         l3 = Integer.parseInt(s.nextLine());
+        result(l1, l2, l3);
+    }
+
+    private static void result(int l1, int l2, int l3) {
         if (l1 == l2 && l3 == l2) {
             System.out.println("equilateral");
         } else if (l1 == l2 || l3 == l2 || l3 == l1) {
