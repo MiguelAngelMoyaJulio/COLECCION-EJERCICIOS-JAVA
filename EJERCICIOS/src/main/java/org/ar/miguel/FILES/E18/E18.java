@@ -1,5 +1,7 @@
 package org.ar.miguel.FILES.E18;
 
+import com.sun.istack.internal.localization.NullLocalizable;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -28,36 +30,37 @@ import java.util.Scanner;
  * •	El porcentaje de encuestados de sexo femenino y masculino.
  */
 public class E18 {
+    private final static String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E18\\LOTE.txt";
+
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
+
         DecimalFormat df = new DecimalFormat("##.00");
+
         Scanner s = new Scanner(System.in);
+
         String cadenaLectura = null;
         String[] record = new String[0];
+        String familyAddressDepartment = "",addressAux = "";
+
         List<Persona> personas = new ArrayList<>();
         List<Persona> estudiosPrimariosCompletos = new ArrayList<>();
-        int totalRecords = 0;
-        int amountAnalfa = 0;
-        double porcAnalfa = 0d;
-        Persona p = null;
+
+        int totalRecords = 0,amountAnalfa = 0;
         int amountSexFem = 0, amountSexMas = 0;
-        double porcSexFem = 0d, porcSexMas = 0d;
-
         int[] statusAllStudies = new int[4];
+        int maxAmountMembners = 0, amountMembers = 0, familyAge = 0;
 
-        String familyAddressDepartment = "";
-        int maxAmountMembners = 0;
+        double porcSexFem = 0d, porcSexMas = 0d;
+        double porcAnalfa = 0d;
+        double ageAveFamilyCity = 0d, totalAge = 0d, agePerFamily = 0d;
 
-        double ageAveFamilyCity = 0d;
-        double totalAge = 0d;
-
-        double agePerFamily = 0d;
-        int amountMembers = 0, familyAge = 0;
-
-        String addressAux = "";
+        Persona p = null;
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E18\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
             cadenaLectura = bufferedReader.readLine();
             while ((cadenaLectura) != null) {
 
@@ -127,11 +130,15 @@ public class E18 {
                 agePerFamily = (double) (familyAge / amountMembers);
                 System.out.println("average age per family : " + df.format(agePerFamily));
             }
-            bufferedReader.close();
-            fileReader.close();
-
         } catch (IOException e) {
             e.printStackTrace();
+        }finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+            e.printStackTrace();
+            }
         }
         System.out.println(" ");
         System.out.println("People who finished primary school");

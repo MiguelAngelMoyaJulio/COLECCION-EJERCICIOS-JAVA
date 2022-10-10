@@ -56,6 +56,7 @@ public class E17 {
         System.out.print("MINUTES_EXCEDEED ");
         System.out.print("BILING");
         System.out.println("");
+
         try {
             //Put the exact location of the file Datos.csv
             fileReader = new FileReader(INPUT_FILE);
