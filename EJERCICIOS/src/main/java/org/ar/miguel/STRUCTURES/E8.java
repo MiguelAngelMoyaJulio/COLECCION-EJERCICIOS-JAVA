@@ -13,6 +13,10 @@ public class E8 {
         int n = 0, i = 1, me = 0;
         System.out.println("enter a number");
         n = Integer.parseInt(s.nextLine());
+        process(n, me, i);
+    }
+
+    private static void process(int n, int me, int i) {
         while (me < n) {
             if (i % 3 == 0 && i % 5 != 0) {
                 me++;
@@ -20,6 +24,5 @@ public class E8 {
             }
             i++;
         }
-
     }
 }
