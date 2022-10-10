@@ -9,9 +9,8 @@ import java.util.Scanner;
 public class E7 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int sumPos = 0, sumNeg = 0;
-        int cantPos = 0;
-        int n = 0;
+        int sumPos = 0, sumNeg = 0,cantPos = 0 , n=0;
+
         System.out.println("enter a number");
         n = Integer.parseInt(s.nextLine());
         result(n, sumPos, sumNeg, cantPos);
