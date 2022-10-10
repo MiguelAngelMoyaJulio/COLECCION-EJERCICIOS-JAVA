@@ -41,7 +41,11 @@ import java.util.Scanner;
  * Cargo Min Exced.	$0.09	$0.15	$0.21	$0.29	$0.37.
  */
 public class E17 {
+    private final static String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E17\\LOTE.txt";
+
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
         DecimalFormat df = new DecimalFormat("#,###.##");
         Scanner s = new Scanner(System.in);
         String cadenaLectura = null;
@@ -54,8 +58,9 @@ public class E17 {
         System.out.println("");
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("file's location");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
+
             while ((cadenaLectura = bufferedReader.readLine()) != null) {
                 record = cadenaLectura.split(";");
                 String cellPhone = record[0];
@@ -67,17 +72,21 @@ public class E17 {
                 System.out.print(" ");
                 System.out.print(address);
                 System.out.print(" ");
-                System.out.print("      "+minutesFree(plan));
+                System.out.print("      " + minutesFree(plan));
                 System.out.print(" ");
-                System.out.print("          "+minutesExceeded(plan, time));
+                System.out.print("          " + minutesExceeded(plan, time));
                 System.out.print(" ");
                 System.out.println("        $" + df.format(billing(plan, time)));
             }
-            bufferedReader.close();
-            fileReader.close();
-
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 
