@@ -57,4 +57,8 @@ public class E10 {
         System.out.println("U : "+cantU);
         System.out.println("longest word : "+max);
     }
+
+    private static void process() {
+
+    }
 }
