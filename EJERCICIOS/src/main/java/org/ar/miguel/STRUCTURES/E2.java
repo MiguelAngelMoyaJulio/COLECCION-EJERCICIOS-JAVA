@@ -14,6 +14,10 @@ public class E2 {
         System.out.println("enter two numbers");
         a = Integer.parseInt(s.nextLine());
         b = Integer.parseInt(s.nextLine());
+        result(a, b);
+    }
+
+    private static void result(int a, int b) {
         if (b != 0) {
             System.out.println("division " + (a / b));
         } else {
