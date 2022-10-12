@@ -8,7 +8,7 @@ import java.util.Scanner;
  * partir de este conjunto generar otro
  * FACT en el que cada elemento sea el factorial del elemento
  * homólogo de VEC.
- * Finalmente imprimir ambos vectores a razón de un valor de cada uno por renglón
+ * Finalmente imprimir ambos vectores a razón de un valor de cada uno por renglón.
  */
 public class E21 {
     public static void main(String[] args) {
