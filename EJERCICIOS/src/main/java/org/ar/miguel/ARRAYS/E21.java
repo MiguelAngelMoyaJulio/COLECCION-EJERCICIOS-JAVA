@@ -21,21 +21,29 @@ public class E21 {
         if (n < 20) {
             arra = new int[n];
             arraFact = new int[n];
-            for (int i = 0; i < arra.length; i++) {
-                System.out.println("enter a number");
-                num = Integer.parseInt(s.nextLine());
-                arra[i] = num;
-            }
-            for (int i = 0; i < arra.length; i++) {
-                arraFact[i] = factorial(arra[i]);
-            }
-            for (int i = 0; i < arra.length; i++) {
-                System.out.println(arraFact[i]);
-            }
+            loadVector(arra, s, num);
+            showVectorFactorial(arra, arraFact);
         } else {
             System.out.println("Try again");
         }
 
+    }
+
+    private static void loadVector(int[] arra, Scanner s, int num) {
+        for (int i = 0; i < arra.length; i++) {
+            System.out.println("enter a number");
+            num = Integer.parseInt(s.nextLine());
+            arra[i] = num;
+        }
+    }
+
+    private static void showVectorFactorial(int[] arra, int[] arraFact) {
+        for (int i = 0; i < arra.length; i++) {
+            arraFact[i] = factorial(arra[i]);
+        }
+        for (int i = 0; i < arra.length; i++) {
+            System.out.println(arraFact[i]);
+        }
     }
 
     private static int factorial(int num) {
