@@ -12,18 +12,19 @@ import java.util.Scanner;
  */
 public class E40 {
 
-    private static String FILE_INPUT = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\E40\\LOTE.txt";
+    private static final String FILE_INPUT = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\E40\\LOTE.txt";
 
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
+
         Scanner s = new Scanner(System.in);
-        String readRecord = null;
         String[] record = new String[0];
-        String dateAnt = "";
-        String codSubAnt = "";
+        String dateAnt = "", codSubAnt = "", readRecord = null;
 
         try {
-            FileReader fileReader = new FileReader(FILE_INPUT);
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(FILE_INPUT);
+            bufferedReader = new BufferedReader(fileReader);
             //Put the exact location of the file Datos.csv
             readRecord = bufferedReader.readLine();
 
@@ -31,7 +32,7 @@ public class E40 {
                 record = readRecord.split(";");
                 dateAnt = record[2];
                 while (dateAnt.equalsIgnoreCase(record[2]) && readRecord != null) {
-                    String dateAntFixed = dateAnt.substring(0,4)+"/"+dateAnt.substring(4,6)+"/"+dateAnt.substring(6,8);
+                    String dateAntFixed = dateAnt.substring(0, 4) + "/" + dateAnt.substring(4, 6) + "/" + dateAnt.substring(6, 8);
                     record = readRecord.split(";");
                     codSubAnt = record[1];
                     System.out.println("MATERIA : " + codSubAnt + "      " + "FECHA : " + dateAntFixed);
@@ -45,11 +46,15 @@ public class E40 {
                     }
                 }
             }
-            bufferedReader.close();
-            fileReader.close();
-
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
