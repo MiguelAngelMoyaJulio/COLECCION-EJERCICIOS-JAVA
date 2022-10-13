@@ -20,44 +20,57 @@ public class E27 {
         double num = 0, x = 0;
 
         boolean found = false;
-        int pos = -1;
+        int pos = 0;
         System.out.println("enter the size of the array A");
         n = Integer.parseInt(s.nextLine());
         if (n < 40) {
             a = new double[n];
-            for (int i = 0; i < a.length; i++) {
-                System.out.println("enter a number for a");
-                num = Double.parseDouble(s.nextLine());
-                a[i] = num;
-            }
+            loadArray(a, num, s);
             System.out.println("search a number");
             x = Double.parseDouble(s.nextLine());
+            pos = searchNumber(a, s, x);
+            result(a,pos,x);
 
-            for (int i = 0; i < a.length; i++) {
-                if (a[i] == x) {
-                    pos = i;
-                }
-            }
-
-            if (pos == -1) {
-                System.out.println("the number wasn't found");
-            } else {
-                System.out.println(x + " was found in " + (pos+1));
-            }
-
-            if ((pos != 0 && pos != (a.length - 1)) && pos != -1) {
-                System.out.println(x + " is between " + (pos + 2) + " and " + (pos));
-            }
-
-            if (x < a[0]) {
-                System.out.println("it's lower than first element");
-            }
-            if (x > a[a.length - 1]) {
-                System.out.println("it's greater than first element");
-            }
         } else {
             System.out.println("Try again");
         }
 
+    }
+
+    private static void loadArray(double[] a, double num, Scanner s) {
+        for (int i = 0; i < a.length; i++) {
+            System.out.println("enter a number for a");
+            num = Double.parseDouble(s.nextLine());
+            a[i] = num;
+        }
+    }
+
+    private static int searchNumber(double[] a, Scanner s, double x) {
+        int pos = -1;
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] == x) {
+                pos = i;
+            }
+        }
+        return pos;
+    }
+
+    private static void result(double[]a,int pos,double x) {
+        if (pos == -1) {
+            System.out.println("the number wasn't found");
+        } else {
+            System.out.println(x + " was found in " + (pos + 1));
+        }
+
+        if ((pos != 0 && pos != (a.length - 1)) && pos != -1) {
+            System.out.println(x + " is between " + (pos + 2) + " and " + (pos));
+        }
+
+        if (x < a[0]) {
+            System.out.println("it's lower than first element");
+        }
+        if (x > a[a.length - 1]) {
+            System.out.println("it's greater than first element");
+        }
     }
 }
