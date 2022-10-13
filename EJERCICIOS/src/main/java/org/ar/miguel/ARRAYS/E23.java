@@ -20,39 +20,48 @@ public class E23 {
         int[] dos;
         int[] tres;
         int n = 0, suma = 0, num = 0;
-        int j = 0, k = 0;
         System.out.println("enter the size of the array");
         n = Integer.parseInt(s.nextLine());
         if (n < 30) {
             uno = new int[n];
             dos = new int[n];
             tres = new int[2 * n];
-            for (int i = 0; i < uno.length; i++) {
-                System.out.println("enter a number");
-                num = Integer.parseInt(s.nextLine());
-                uno[i] = num;
-            }
-            for (int i = 0; i < dos.length; i++) {
-                System.out.println("enter a number");
-                num = Integer.parseInt(s.nextLine());
-                dos[i] = num;
-            }
-
-            for (int i = 0; i < 2 * n; i++) {
-                if (i % 2 == 0) {
-                    tres[i] = uno[j];
-                    j++;
-                } else {
-                    tres[i] = dos[k];
-                    k++;
-                }
-            }
+            loadArrays(uno, dos, s, num);
+            mixArrays(uno,dos,tres,n);
             for (int i : tres) {
                 System.out.println(i);
             }
         } else {
             System.out.println("Try again");
         }
+    }
 
+    private static void loadArrays(int[] uno, int[] dos, Scanner s, int num) {
+        for (int i = 0; i < uno.length; i++) {
+            System.out.println("enter a number");
+            num = Integer.parseInt(s.nextLine());
+            uno[i] = num;
+        }
+        for (int i = 0; i < dos.length; i++) {
+            System.out.println("enter a number");
+            num = Integer.parseInt(s.nextLine());
+            dos[i] = num;
+        }
+    }
+
+    private static void mixArrays(int[] uno, int[] dos, int[] tres, int n) {
+        int j = 0, k = 0;
+        for (int i = 0; i < 2 * n; i++) {
+
+            if (i % 2 == 0) {
+                tres[i] = uno[j];
+                j++;
+            } else {
+                tres[i] = dos[k];
+                k++;
+            }
+
+        }
     }
 }
+
