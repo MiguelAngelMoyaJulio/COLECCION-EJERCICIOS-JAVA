@@ -19,21 +19,22 @@ import java.util.Scanner;
  * 4.	Sexo de la persona más vieja (solo existe una).
  */
 public class E29 {
+    private static final String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\E29\\LOTE.txt";
+
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
+
         DecimalFormat df = new DecimalFormat("#,###,##0.00");
-        String cadenaLectura = null;
+        String cadenaLectura = null, sex = "";
         String[] record = new String[0];
-        int birthsOnOctober = 0;
-        int birthsBeforeNineJuly = 0;
-        int birthsFemaleSpring = 0;
-        int anio = 0;
-        int anioMinimum = 0;
-        int i = 0;
-        String sex = "";
+        int birthsOnOctober = 0, birthsBeforeNineJuly = 0, birthsFemaleSpring = 0;
+        int anio = 0, anioMinimum = 0, i = 0;
+
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\E29\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
             while ((cadenaLectura = bufferedReader.readLine()) != null) {
                 record = cadenaLectura.split(";");
                 if (Integer.parseInt(record[1]) == 10) {
@@ -69,14 +70,23 @@ public class E29 {
                     anioMinimum = anio;
                 }
             }
-            bufferedReader.close();
-            fileReader.close();
-            System.out.println("AMOUNT OF BIRTHS ON OCTOBER : " + birthsOnOctober);
-            System.out.println("AMOUNT OF BIRTHS BEFORE 9 JULY : " + birthsBeforeNineJuly);
-            System.out.println("AMOUNT OF BIRTHS ON SPRING : " + birthsFemaleSpring);
-            System.out.println("OLDEST PERSON'S SEX : " + sex + " " + anioMinimum);
+            finalTotal(birthsOnOctober, birthsBeforeNineJuly, birthsFemaleSpring, anioMinimum, sex);
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
+    }
+
+    private static void finalTotal(int birthsOnOctober, int birthsBeforeNineJuly, int birthsFemaleSpring, int anioMinimum, String sex) {
+        System.out.println("AMOUNT OF BIRTHS ON OCTOBER : " + birthsOnOctober);
+        System.out.println("AMOUNT OF BIRTHS BEFORE 9 JULY : " + birthsBeforeNineJuly);
+        System.out.println("AMOUNT OF BIRTHS ON SPRING : " + birthsFemaleSpring);
+        System.out.println("OLDEST PERSON'S SEX : " + sex + " " + anioMinimum);
     }
 }
