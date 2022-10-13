@@ -11,26 +11,28 @@ import java.text.DecimalFormat;
  * pagar y el pago mínimo que es el 20% del saldo total.
  */
 public class E33 {
+    private static final String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\CONTROL_CUT\\E33\\LOTE.txt";
+
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
         DecimalFormat df = new DecimalFormat("#,###,##0.00");
-        String readRecord = null;
         String[] record = new String[0];
-        String tarAnt = "";
-        double totalTar = 0;
-        double totalPagoMinimo = 0;
+        String tarAnt = "", readRecord = null;
+        double totalTar = 0, totalPagoMinimo = 0;
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\CONTROL_CUT\\E33\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
             readRecord = bufferedReader.readLine();
             while (readRecord != null) {
                 record = readRecord.split(";");
                 totalTar = 0;
                 tarAnt = record[0];
                 System.out.println("TARJETA : " + tarAnt);
-                System.out.println("FECHA" + "                " + "CONSUMO"+"          "+"IMPORTE");
+                System.out.println("FECHA" + "                " + "CONSUMO" + "          " + "IMPORTE");
                 while (tarAnt.equalsIgnoreCase(record[0]) && readRecord != null) {
-                    System.out.println(record[1] +"         "+record[2]+ "        $" + df.format(Double.parseDouble(record[3])));
+                    System.out.println(record[1] + "         " + record[2] + "        $" + df.format(Double.parseDouble(record[3])));
                     totalTar = totalTar + Double.parseDouble(record[3]);
                     readRecord = bufferedReader.readLine();
                     if (readRecord != null) {
@@ -42,10 +44,15 @@ public class E33 {
                 System.out.println("TOTAL PAGO MINIMO :                  $" + df.format(totalPagoMinimo));
                 System.out.println("");
             }
-            bufferedReader.close();
-            fileReader.close();
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
