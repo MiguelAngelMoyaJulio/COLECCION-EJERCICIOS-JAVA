@@ -32,9 +32,8 @@ public class E28 {
         BufferedReader bufferedReader = null;
         DecimalFormat df = new DecimalFormat("#,###,##0.00");
 
-        String cadenaLectura = null;
         String[] record = new String[0];
-        String vueloAnterior = "", vueloMaxRecaudacion = "";
+        String vueloAnterior = "", vueloMaxRecaudacion = "",cadenaLectura = null;
         int cantidadAsientoAnterior = 0, asientoVendido = 0, vueloCompleto = 0;
         double ventaRecauda = 0, totalRecaudadoMes = 0, maxVentas = 0d;
 
