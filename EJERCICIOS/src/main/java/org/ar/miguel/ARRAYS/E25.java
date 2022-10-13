@@ -22,22 +22,29 @@ public class E25 {
             a = new int[n];
             b = new int[n];
             c = new int[n];
-            for (int i = 0; i < a.length; i++) {
-                System.out.println("enter a number for a and b");
-                num = Integer.parseInt(s.nextLine());
-                a[i] = num;
-                num = Integer.parseInt(s.nextLine());
-                b[i] = num;
-            }
-            for (int i = 0; i < c.length; i++) {
-                c[i] = a[i] + b[(n-1)-i];
-            }
-            for(int i=0;i<c.length;i++){
-                System.out.println(c[i]);
-            }
+            loadArray(a, b, s, num);
+            result(a, b, c, n);
         } else {
             System.out.println("Try again");
         }
+    }
 
+    private static void loadArray(int[] a, int[] b, Scanner s, int num) {
+        for (int i = 0; i < a.length; i++) {
+            System.out.println("enter a number for a and b");
+            num = Integer.parseInt(s.nextLine());
+            a[i] = num;
+            num = Integer.parseInt(s.nextLine());
+            b[i] = num;
+        }
+    }
+
+    private static void result(int[] a, int[] b, int[] c, int n) {
+        for (int i = 0; i < c.length; i++) {
+            c[i] = a[i] + b[(n - 1) - i];
+        }
+        for (int i = 0; i < c.length; i++) {
+            System.out.println(c[i]);
+        }
     }
 }
