@@ -9,48 +9,43 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * El gobierno de la Ciudad de Buenos Aires realiza una encuesta
- * en casas de familia. De cada familia se conoce:
- * domicilio, tipo de vivienda (‘C’: casa, ‘D’: departamento), y cantidad de integrantes.
- * De cada integrante de la familia se conoce:
- * nombre, apellido, edad, sexo (‘F’, ‘M’),
- * nivel de estudios alcanzados (‘N’: no posee, ‘P’: primario, ‘S’: secundario, ‘T’: terciario, ‘U’: universitario), y un indicador (‘I’: incompleto, ‘C’: completo) que se refiere al ítem anterior.
- * Los datos finalizan cuando la cantidad de integrantes sea igual a cero.
- * Se pide emitir un listado con los resultados:
- * •Los datos de los encuestados que hayan completado los estudios primarios.
- * •El porcentaje de analfabetismo en la ciudad
- * (se considera analfabetos a los mayores de 10 años que no posean estudios).
- * •	El domicilio de la familia con mayor cantidad de
- * integrantes que viven en departamento.
- * •	La edad promedio de cada familia y de la ciudad.
- * •	La cantidad de encuestados en cada tipo de nivel
- * de estudios alcanzados incompletos.
- * •	El porcentaje de encuestados de sexo femenino y masculino.
+ * Una compañía aérea desea emitir un listado con los movimientos mensuales de sus m vuelos al exterior.
+ * Para ello cuenta con la siguiente información:
+ * •	De cada vuelo realizado el número de vuelo, destino, y cantidad de asientos.
+ * •	De cada pasajero el número de pasaporte y el importe que abonó por el pasaje (en dólares). La información finaliza con un número de pasaporte igual a cero. Se pide emitir el siguiente listado: Nro. de Vuelo: 9999, Destino: xxxxxxxxxxxxxxxxx
+ * Nro. de Pasaporte	Importe en u$s
+ * 99999999	999.99
+ * 99999999	999.99
+ * 99999999	999.99
+ * Total recaudado del vuelo: $99999.99
+ * % de Asientos Libres del vuelo: 999.99
+ * % de Asientos Ocupados del vuelo: 999.99
+ * :	:	:
+ * Total recaudado en el mes: $999999.99
+ * Cantidad de veces seguidas que se dieron vuelos completos: 99 El número de vuelo que más recaudó: 9999
  */
 public class E28 {
+    private final static String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E28\\LOTE.txt";
+
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
         DecimalFormat df = new DecimalFormat("#,###,##0.00");
-        Scanner s = new Scanner(System.in);
+
         String cadenaLectura = null;
         String[] record = new String[0];
-        String vueloAnterior = "";
-        int cantidadAsientoAnterior = 0;
-        int asientoVendido = 0;
-        double ventaRecauda = 0, totalRecaudadoMes = 0;
-        int vueloCompleto = 0;
-        String vueloMaxRecaudacion = "";
-        double maxVentas = 0d;
+        String vueloAnterior = "", vueloMaxRecaudacion = "";
+        int cantidadAsientoAnterior = 0, asientoVendido = 0, vueloCompleto = 0;
+        double ventaRecauda = 0, totalRecaudadoMes = 0, maxVentas = 0d;
+
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\E28\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
             cadenaLectura = bufferedReader.readLine();
 
-            if (cadenaLectura != null) {
-                record = cadenaLectura.split(";");
-            }
-
             while ((cadenaLectura) != null) {
+                record = cadenaLectura.split(";");
                 ventaRecauda = 0;
                 vueloAnterior = record[0];
                 asientoVendido = 0;
@@ -77,17 +72,31 @@ public class E28 {
                 }
 
                 totalRecaudadoMes = totalRecaudadoMes + ventaRecauda;
-                System.out.println("TOTAL RECAUDADO : " + df.format(ventaRecauda));
-                System.out.println("% ASIENTO LIBRE DEL VUELO : " + ((double) (asientoVendido * 100) / cantidadAsientoAnterior));
-                System.out.println("% ASIENTO OCUPADO DEL VUELO : " + (100 - (double) (asientoVendido * 100) / cantidadAsientoAnterior));
+                totalCutFilght(df, ventaRecauda, asientoVendido, cantidadAsientoAnterior);
             }
-            System.out.println("CANTIDAD DE VUELOS COMPLETOS : " + vueloCompleto);
-            System.out.println("TOTAL RECAUDADO EN EL MES : " + df.format(totalRecaudadoMes));
-            System.out.println("VUELO QUE MAS RECAUDO : " + vueloMaxRecaudacion);
-            bufferedReader.close();
-            fileReader.close();
+            finalTotal(df,vueloCompleto,totalRecaudadoMes,vueloMaxRecaudacion);
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
+
+    private static void totalCutFilght(DecimalFormat df, double ventaRecauda, int asientoVendido, int cantidadAsientoAnterior) {
+        System.out.println("TOTAL RECAUDADO : " + df.format(ventaRecauda));
+        System.out.println("% ASIENTO LIBRE DEL VUELO : " + ((double) (asientoVendido * 100) / cantidadAsientoAnterior));
+        System.out.println("% ASIENTO OCUPADO DEL VUELO : " + (100 - (double) (asientoVendido * 100) / cantidadAsientoAnterior));
+    }
+
+    private static void finalTotal(DecimalFormat df, int vueloCompleto, double totalRecaudadoMes, String vueloMaxRecaudacion) {
+        System.out.println("CANTIDAD DE VUELOS COMPLETOS : " + vueloCompleto);
+        System.out.println("TOTAL RECAUDADO EN EL MES : " + df.format(totalRecaudadoMes));
+        System.out.println("VUELO QUE MAS RECAUDO : " + vueloMaxRecaudacion);
+    }
 }
+
