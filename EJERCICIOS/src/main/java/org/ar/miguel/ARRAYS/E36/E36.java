@@ -20,28 +20,40 @@ import java.util.Scanner;
  * d) A que hora se produjo la mayor temperatura media.
  */
 public class E36 {
+    private static final String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\ARRAYS\\E36\\LOTE.txt";
     public static void main(String[] args) {
         String readRecord = null;
         double[][] ma = new double[31][24];
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\ARRAYS\\E36\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
-            for (int i = 0; i < 31; i++) {
-                for (int j = 0; j < 24; j++) {
-                    readRecord = bufferedReader.readLine();
-                    if (readRecord != null) {
-                        ma[i][j] = Double.parseDouble(readRecord);
-                    }
-                }
-            }
-            bufferedReader.close();
-            fileReader.close();
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
+            loadMatrix(ma,readRecord,bufferedReader);
             tempMaxMonth(ma, 31, 24);
             tempMinAveDay(ma, 31, 24);
             tempMaxAveHour(ma, 31, 24);
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    private static void loadMatrix(double[][] ma, String readRecord, BufferedReader bufferedReader) throws  IOException{
+        for (int i = 0; i < 31; i++) {
+            for (int j = 0; j < 24; j++) {
+                readRecord = bufferedReader.readLine();
+                if (readRecord != null) {
+                    ma[i][j] = Double.parseDouble(readRecord);
+                }
+            }
         }
     }
 
