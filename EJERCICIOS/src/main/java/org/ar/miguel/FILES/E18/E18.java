@@ -9,7 +9,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+import org.ar.miguel.FILES.E18.Persona;
 /**
  * El gobierno de la Ciudad de Buenos Aires realiza una encuesta
  * en casas de familia. De cada familia se conoce:

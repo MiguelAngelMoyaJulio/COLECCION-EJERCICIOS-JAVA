@@ -17,7 +17,7 @@ public class E26 {
         int[] b;
         int[] c;
         int[] d;
-        int n = 0, m = 0, num = 0, j = 0, zeros = 0;
+        int n = 0, m = 0, num = 0, lenD = 0;
         System.out.println("enter the size of the array A");
         n = Integer.parseInt(s.nextLine());
         System.out.println("enter the size of the array B");
@@ -26,35 +26,10 @@ public class E26 {
             a = new int[n];
             b = new int[m];
             c = new int[n + m];
-            for (int i = 0; i < a.length; i++) {
-                System.out.println("enter a number for a");
-                num = Integer.parseInt(s.nextLine());
-                a[i] = num;
-            }
-            for (int i = 0; i < b.length; i++) {
-                System.out.println("enter a number for b");
-                num = Integer.parseInt(s.nextLine());
-                b[i] = num;
-            }
-            for (int i = 0; i < c.length; i++) {
-                if (i < n) {
-                    c[i] = a[i];
-                } else {
-                    c[i] = b[i - a.length];
-                }
-            }
-            for (int i = 0; i < c.length; i++) {
-                if (c[i] == 0) {
-                    zeros++;
-                }
-            }
-            d = new int[c.length-zeros];
-            for (int i = 0; i < c.length; i++) {
-                if (c[i] != 0) {
-                    d[j] = c[i];
-                    j++;
-                }
-            }
+            loadArrays(a, b, s, num);
+            lenD = arrayC(a, b, c, n);
+            d = new int[c.length - lenD];
+            arrayD(c, d);
             for (int i = 0; i < c.length; i++) {
                 System.out.println(c[i]);
             }
@@ -64,6 +39,44 @@ public class E26 {
         } else {
             System.out.println("Try again");
         }
+    }
 
+    private static void loadArrays(int[] a, int[] b, Scanner s, int num) {
+        for (int i = 0; i < a.length; i++) {
+            System.out.println("enter a number for a");
+            num = Integer.parseInt(s.nextLine());
+            a[i] = num;
+        }
+        for (int i = 0; i < b.length; i++) {
+            System.out.println("enter a number for b");
+            num = Integer.parseInt(s.nextLine());
+            b[i] = num;
+        }
+    }
+
+    private static int arrayC(int[] a, int[] b, int[] c, int n) {
+        int zeros = 0;
+        for (int i = 0; i < c.length; i++) {
+            if (i < n) {
+                c[i] = a[i];
+            } else {
+                c[i] = b[i - a.length];
+            }
+        }
+        for (int i = 0; i < c.length; i++) {
+            if (c[i] == 0) {
+                zeros++;
+            }
+        }
+        return zeros;
+    }
+    private static void arrayD(int[] c, int[] d) {
+        int j = 0;
+        for (int i = 0; i < c.length; i++) {
+            if (c[i] != 0) {
+                d[j] = c[i];
+                j++;
+            }
+        }
     }
 }
