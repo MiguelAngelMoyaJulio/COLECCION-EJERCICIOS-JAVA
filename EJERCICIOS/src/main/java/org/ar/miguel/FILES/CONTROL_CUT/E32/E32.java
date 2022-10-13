@@ -12,21 +12,20 @@ import java.text.DecimalFormat;
  * total del salario a pagar por parte de la empresa.
  */
 public class E32 {
+    private static final String INPUT_FILE = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\CONTROL_CUT\\E32\\LOTE.txt";
+
     public static void main(String[] args) {
+        FileReader fileReader = null;
+        BufferedReader bufferedReader = null;
+
         DecimalFormat df = new DecimalFormat("#,###,##0.00");
-        String readRecord = null;
         String[] record = new String[0];
-        String sucAnt = "";
-        String depAnt = "";
-        String secAnt = "";
-        double totalSuc = 0;
-        double totalDep = 0;
-        double totalSec = 0;
-        double totalEmp = 0;
+        String sucAnt = "", depAnt = "", secAnt = "", readRecord = null;
+        double totalSuc = 0, totalDep = 0, totalSec = 0, totalEmp = 0;
         try {
             //Put the exact location of the file Datos.csv
-            FileReader fileReader = new FileReader("D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\CONTROL_CUT\\E32\\LOTE.txt");
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            fileReader = new FileReader(INPUT_FILE);
+            bufferedReader = new BufferedReader(fileReader);
             readRecord = bufferedReader.readLine();
             while (readRecord != null) {
                 record = readRecord.split(";");
@@ -40,7 +39,7 @@ public class E32 {
                         totalSec = 0;
                         secAnt = record[2];
                         while (secAnt.equalsIgnoreCase(record[2]) && depAnt.equalsIgnoreCase(record[1]) && sucAnt.equalsIgnoreCase(record[0]) && readRecord != null) {
-                            System.out.println("      "+record[3] + "               $" + df.format(Double.parseDouble(record[4])));
+                            System.out.println("      " + record[3] + "               $" + df.format(Double.parseDouble(record[4])));
                             totalSec = totalSec + Double.parseDouble(record[4]);
                             readRecord = bufferedReader.readLine();
                             if (readRecord != null) {
@@ -57,11 +56,16 @@ public class E32 {
                 totalEmp = totalEmp + totalSuc;
                 System.out.println("");
             }
-            System.out.println("TOTAL A PAGAR :        $"+df.format(totalEmp));
-            bufferedReader.close();
-            fileReader.close();
+            System.out.println("TOTAL A PAGAR :        $" + df.format(totalEmp));
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedReader.close();
+                fileReader.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
