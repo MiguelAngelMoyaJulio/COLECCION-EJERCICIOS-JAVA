@@ -14,19 +14,21 @@ public class E39 {
     private static String FILE_INPUT = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\E39\\LOTE.txt";
 
     public static void main(String[] args) {
+        FileWriter fileWriter = null;
+        BufferedWriter bufferedWriter = null;
+
         List<String> records = new ArrayList<>();
+
         Scanner s = new Scanner(System.in);
-        String readRecord = null;
         String[] record = new String[0];
-        String res = "";
-        String out = "";
-        String outList = "";
+        String res = "", out = "", outList = "", readRecord = null;
+
         int i = 0;
         System.out.println("ENTER A NEW SUBSCRIPTION? S/N");
         res = s.nextLine();
         try {
-            FileWriter fileWriter = new FileWriter(FILE_INPUT, true);
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+            fileWriter = new FileWriter(FILE_INPUT, true);
+            bufferedWriter = new BufferedWriter(fileWriter);
             //Put the exact location of the file Datos.csv
             while (res.equalsIgnoreCase("s")) {
 
@@ -52,14 +54,17 @@ public class E39 {
                 System.out.println("ENTER A NEW SUBSCRIPTION? S/N");
                 res = s.nextLine();
             }
-
-            bufferedWriter.close();
-            fileWriter.close();
-
             System.out.println("RECORDS ADDED : " + records.size());
             records.stream().forEach(System.out::println);
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                bufferedWriter.close();
+                fileWriter.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
