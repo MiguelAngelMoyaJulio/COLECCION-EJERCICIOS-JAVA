@@ -28,17 +28,21 @@ public class E35 {
         col = Integer.parseInt(s.nextLine());
         if (fil < 30 && col < 25) {
             ma = new int[fil][col];
-            for (int i = 0; i < fil; i++) {
-                for (int j = 0; j < col; j++) {
-                    System.out.println("ENTER A NUMBER");
-                    num = Integer.parseInt(s.nextLine());
-                    ma[i][j] = num;
-                }
-            }
+            loadArray(ma, fil, col, s, num);
             showMatrix(ma, fil, col);
             averageMatrix(ma, fil, col);
             maxCol(ma, fil, col);
             maxFil(ma, fil, col);
+        }
+    }
+
+    private static void loadArray(int[][] ma, int fil, int col, Scanner s, int num) {
+        for (int i = 0; i < fil; i++) {
+            for (int j = 0; j < col; j++) {
+                System.out.println("ENTER A NUMBER");
+                num = Integer.parseInt(s.nextLine());
+                ma[i][j] = num;
+            }
         }
     }
 
