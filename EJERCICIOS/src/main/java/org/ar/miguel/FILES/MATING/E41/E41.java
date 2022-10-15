@@ -14,24 +14,30 @@ public class E41 {
     private final static String FILE_OUTPUT_MASTER = "D:\\Miguel\\DEVELOPMENT\\JAVA-EJERCICIOS-GIT\\EJERCICIOS\\src\\main\\java\\org\\ar\\miguel\\FILES\\MATING\\E41\\MASTER_UPDATE.txt";
 
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        String recordMaster = null;
-        String recordNews = null;
+        FileWriter fwMaster = null;
+        BufferedWriter bwMaster = null;
+
+        FileReader frMaster = null;
+        BufferedReader brMaster = null;
+
+        FileReader frNews = null;
+        BufferedReader brNews = null;
+
+        String recordMaster = null, recordNews = null, output = "";
         String[] master = new String[0];
         String[] news = new String[0];
-        String output = "";
 
 
         try {
 
-            FileWriter fwMaster = new FileWriter(FILE_OUTPUT_MASTER);
-            BufferedWriter bwMaster = new BufferedWriter(fwMaster);
+            fwMaster = new FileWriter(FILE_OUTPUT_MASTER);
+            bwMaster = new BufferedWriter(fwMaster);
 
-            FileReader frMaster = new FileReader(FILE_MASTER);
-            BufferedReader brMaster = new BufferedReader(frMaster);
+            frMaster = new FileReader(FILE_MASTER);
+            brMaster = new BufferedReader(frMaster);
 
-            FileReader frNews = new FileReader(FILE_NEWS);
-            BufferedReader brNews = new BufferedReader(frNews);
+            frNews = new FileReader(FILE_NEWS);
+            brNews = new BufferedReader(frNews);
             //Put the exact location of the file Datos.csv
             recordMaster = brMaster.readLine();
             recordNews = brNews.readLine();
@@ -59,33 +65,46 @@ public class E41 {
                 }
             }
 
+            closeMaster(master, recordMaster, brMaster, bwMaster);
+            closeNews(news, recordNews, brNews, bwMaster);
 
-            while(recordMaster != null){
-                master = recordMaster.split(";");
-                output = "";
-                output = master[0] + ";" + master[1] + ";" + master[2] + "\n";
-                bwMaster.write(output);
-                recordMaster = brMaster.readLine();
-            }
-
-            while (recordNews != null) {
-                news = recordNews.split(";");
-                output = "";
-                output = news[0] + ";" + news[1] + ";" + news[2] + "\n";
-                bwMaster.write(output);
-                recordNews = brNews.readLine();
-            }
-
-            brMaster.close();
-            frMaster.close();
-
-            brNews.close();
-            frNews.close();
-
-            bwMaster.close();
-            fwMaster.close();
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                brMaster.close();
+                frMaster.close();
+
+                brNews.close();
+                frNews.close();
+
+                bwMaster.close();
+                fwMaster.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    private static void closeMaster(String[] master, String recordMaster, BufferedReader brMaster, BufferedWriter bwMaster) throws IOException {
+        String output = "";
+        while (recordMaster != null) {
+            master = recordMaster.split(";");
+            output = "";
+            output = master[0] + ";" + master[1] + ";" + master[2] + "\n";
+            bwMaster.write(output);
+            recordMaster = brMaster.readLine();
+        }
+    }
+
+    private static void closeNews(String[] news, String recordNews, BufferedReader brNews, BufferedWriter bwMaster) throws IOException {
+        String output = "";
+        while (recordNews != null) {
+            news = recordNews.split(";");
+            output = "";
+            output = news[0] + ";" + news[1] + ";" + news[2] + "\n";
+            bwMaster.write(output);
+            recordNews = brNews.readLine();
         }
     }
 }
