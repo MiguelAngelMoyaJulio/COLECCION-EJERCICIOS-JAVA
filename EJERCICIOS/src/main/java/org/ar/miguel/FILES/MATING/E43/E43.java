@@ -36,16 +36,12 @@ public class E43 {
         FileReader frNews = null;
         BufferedReader brNews = null;
 
-        String recordMaster = null;
-        String recordNews = null;
+        String recordMaster = null,recordNews = null,minAccount = "";
         String[] master = new String[0];
         String[] news = new String[0];
 
-        double balance = 0;
-        String minAccount = "";
-        double minBalance = 0;
-        int accountAnt = 0;
-        int i = 0;
+        double balance = 0,minBalance = 0;
+        int accountAnt = 0,i=0;
 
         try {
 
