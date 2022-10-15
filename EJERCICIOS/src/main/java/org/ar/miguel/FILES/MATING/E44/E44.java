@@ -36,15 +36,12 @@ public class E44 {
         FileReader frNews = null;
         BufferedReader brNews = null;
 
-        String recordMaster = null;
-        String recordNews = null;
+        String recordMaster = null,recordNews = null;
         String[] master = new String[0];
         String[] news = new String[0];
-        String codeCombineMaster = "";
-        String codeCombineNews = "";
+        String codeCombineMaster = "",codeCombineNews = "";
 
-        int totalSeats = 0;
-        int notAvaliableSeats = 0;
+        int totalSeats = 0,notAvaliableSeats = 0;
         try {
 
             fwMaster = new FileWriter(FILE_OUTPUT_MASTER);
