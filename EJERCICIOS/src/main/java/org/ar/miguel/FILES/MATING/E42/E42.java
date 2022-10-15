@@ -24,16 +24,12 @@ public class E42 {
 
         FileReader frNews = null;
         BufferedReader brNews = null;
-        Scanner s = new Scanner(System.in);
-        String recordMaster = null;
-        String recordNews = null;
+        String recordMaster = null,recordNews = null,output = "";
         String[] master = new String[0];
         String[] news = new String[0];
-        String output = "";
 
         int nroMedidorAnt = 0, cantDeudores = 0;
-        double deudaTotal = 0;
-        double montoTotalDeuda = 0;
+        double deudaTotal = 0,montoTotalDeuda = 0;
 
         try {
 
